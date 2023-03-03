@@ -1,0 +1,252 @@
+[
+  "第一筆為示範",
+  {
+    "AttractionName": "臨江街觀光夜市",
+    "type": [
+      "夜間首選,城市郊遊"
+    ],
+    "Introduction": "具有客家文化的臨江街夜市，在大安區的住宅區裡，是臺北市少數合法掛牌設立的夜市，約有8年的歷史，近200個攤位的各種美食小吃，讓許多臺北人流連忘返，附近上班族幾乎天天在這裡吃晚飯，既省錢又美味。有名的小吃多到數不清，古早味的乾伴麵加肉羹湯、香滑順口的蚵仔麵線、好吃的臺式蚵仔煎、香噴噴的烤香腸、入味不油的狀元滷味、灑了滿滿花生粉的豬血糕、石家刈包香香軟軟的魯肉、清香好喝的米粉湯、小朋友最愛的雞蛋糕等等，各式美食應有盡有 ，就這麼邊逛邊吃，真是太滿足了！沿著文昌街走下去，還有流行時尚的中、西式家具店，各式新穎獨特的造型，也是快活。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大安區",
+    "Address": "",
+    "Tel": "886-2-25505220",
+    "Email": "",
+    "Nlat": 121.55423736572266,
+    "Elong": 25.03019905090332,
+    "OfficialSite": "https://www.tcma.gov.taipei/News_Content.aspx?n=FAC14AD2DE4E01A4&sms=32F7BA052C5CA548&s=9A5FBF2E607D28CA",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "每日18:00~24:00",
+    "ZipCode": "106",
+    "Images": {
+      "Src": "https://www.travel.taipei/image/89198"
+    }
+  },
+  {
+    "AttractionName": "經國七海文化園區",
+    "type": [
+      "拍照聖地,城市郊遊,室外,放鬆療育"
+    ],
+    "Introduction": "經國七海文化園區是位於臺灣臺北市大直的國家紀念建築，係已故前中華民國總統蔣經國的紀念建築群。園區內建築包含蔣經國故居七海寓所與台北市政府BOT規劃興建的蔣經國總統圖書館。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Nlat": 121.53686351828526,
+    "Elong": 25.079050243130318,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": [
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
+      ]
+    }
+  },
+  {
+    "AttractionName": "徜徉餐廳",
+    "type": [
+      "拍照聖地,城市郊遊,室外,放鬆療育"
+    ],
+    "Introduction": "位於經國七海文化園區一樓南側，提供遊客在導覽結束後，可以繼續留下來稍做休憩及享用餐點和飲品的地方。餐廳提供遊客數款簡單茶食及特色茶飲，茶食部分提供中式的佐味茶點及傳統飽食麵點，飲品以茶類飲料為主。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Nlat": 121.53722283392173,
+    "Elong": 25.078785226392817,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": [
+        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0y_137_P5TX57v4-2e031056-a20c-41f3-913a-592774866a42_6155C066-70DC-46B0-B32B-B9CD6C3B0B94.png",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
+      ]
+    }
+  },
+  {
+    "AttractionName": "Wave餐廳",
+    "type": [
+      "拍照聖地,城市郊遊,室外,放鬆療育"
+    ],
+    "Introduction": "位於經國七海文化園區遊客中心二樓，提供遊客咖啡、簡易軟硬性飲料及西式輕食，亦可不定期提供場地舉辦講座展覽或活動包場。餐點內容以西式套餐為主，並搭配飲料及蛋糕。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Nlat": 121.53763014800909,
+    "Elong": 25.077891350206013,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": [
+        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0NeM_tKduzOlPwQ-9699567a-46f0-4b97-a3f4-7b2edaabd6b5_%C3%A5%C2%BE%C2%9C%C3%A5%C2%BE%C2%89Menu-1.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
+      ]
+    }
+  },
+  {
+    "AttractionName": "圓山大飯店 花園咖啡廳",
+    "type": [
+      "拍照聖地,城市郊遊,室外,放鬆療育"
+    ],
+    "Introduction": "花園咖啡廳位於一樓大廳左側，提供各式單點餐飲、精緻甜點、英式下午茶及咖啡飲品。餐廳裝潢以傳統的建築與當代藝術兼融合併，特別邀請國際知名藝術家率領專業花藝團隊，為花園咖啡廳打成造當代藝術新亮點。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區中山北路四段一號",
+    "Tel": "886-2-8868888",
+    "Email": "grand@grand-hotel.org",
+    "Nlat": 121.52563261763162,
+    "Elong": 25.076944918422658,
+    "OfficialSite": "https://www.grand-hotel.org/TW/official/restaurant-detail.aspx?gh=TP&serno=19",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "每日08:00~22:30",
+    "Images": {
+      "Src": [
+        "https://www.grand-hotel.org/fileupload/Restaurant_File/19_espvlhcfxs.jpg",
+        "https://www.grand-hotel.org/fileupload/Restaurant_File/19_qxsrasxhdh.jpg",
+        "https://www.grand-hotel.org/fileupload/Restaurant_File/19_ptrnvtorwj.jpg",
+        "https://www.grand-hotel.org/fileupload/History/TW/8.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "圓山河濱公園溜冰場",
+    "type": [
+      "拍照聖地,城市郊遊,室外,冒險刺激"
+    ],
+    "Introduction": "公園位於中山橋上游至大直橋間(右岸)，腹地狹長面積不大約8.6公頃，自行車道兩旁植被茂盛，靜靜的開著小黃花，行走其中，有穿越綠色森林的感覺。這裡設置有簡單的體健設施及溜冰場，可以讓附近的居民有多一點的休憩空間。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區",
+    "Tel": "",
+    "Email": "grand@grand-hotel.org",
+    "Nlat": 121.52717614722611,
+    "Elong": 25.074644395726917,
+    "OfficialSite": "https://heo.gov.taipei/News_Content.aspx?n=E65DBD99C91AEAC4&sms=3A0FD6D3764BFBA7&s=32AD01DE379CE197",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzMwL2NrZmlsZS80ZGE0Y2JkYS1lNjNhLTQ4ZjUtODczZi03ZmY3MmY5NmI2NTcuanBn&n=MjAg5ZyT5bGxLmpwZw%3d%3d&icon=.jpg",
+        "http://4.bp.blogspot.com/-Dni3lBaoQ7E/Vl05mF7hrUI/AAAAAAAAFaY/WYry7vLXSzg/s320/%25E4%25B8%25AD%25E5%25B1%25B1%25E6%25A9%258Bn.jpg",
+        "http://2.bp.blogspot.com/-ct2D88ZVyRg/Vl5YgjHbkpI/AAAAAAAAFa4/TywOuKPp9zM/s320/%25E5%25A5%2594%25E6%25B0%25B4%25E6%25B1%25A0.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "微風平台",
+    "type": [
+      "拍照聖地,城市郊遊,室外,夜間首選"
+    ],
+    "Introduction": "圓山風景區是交通易達、安排一日遊的好去處，可以走劍潭山親山步道至老地方觀機平台，去年新設置的微風平台，可遠眺淡水河及遠方的觀音山。趁著新春連假，相約親朋好友來趟圓山強身樂活之旅，開啟一整年健康樂活好心情。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區中山北路四段1巷1弄No. 3號",
+    "Tel": "",
+    "Email": "",
+    "Nlat": 121.52846598575641,
+    "Elong": 25.08410544842676,
+    "OfficialSite": "",
+    "Facebook": "",
+    "Remind": "",
+    "StayTime": "",
+    "Target、Service": "",
+    "OpenTime": "",
+    "Images": {
+      "Src": [
+        "https://obs.line-scdn.net/0hHf2ox4SlF0kPFgLLttNoHjdAGzg8cA1ALXBRKHkUQHF3OgBKY3NEKi1DGmUrdAJLL3JefXgTS3ByJgIWNA/w1200",
+        "https://img.ltn.com.tw/Upload/playing/page/2018/08/05/180805-10373-4-ygj7A.jpg",
+        "https://obs.line-scdn.net/0hkDN0eHZJNGtzSSHpyotLPEsfOBpALy5iUSd7DFNNPVwMZXNpGn1nCAIcOkcNKiE0U38sD1AeaQ8KLSA-Tw/w1200",
+        "https://obs.line-scdn.net/0h0Ay6u-KGb25ET3rs_YkQOXwZYx93KXVnZiEgCzMcYl1vYytsKCE8DTRJY0I5eC8xZH4mC2dHMFdoL384fQ/w1200",
+        "https://img.ltn.com.tw/Upload/playing/page/2018/08/05/180805-10373-3-Y3fvB.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "線形公園(劍潭)特色遊戲場",
+    "type": [
+      "親子"
+    ]
+  },
+  {
+    "AttractionName": "顏水龍",
+    "type": [
+      "拍照聖地"
+    ]
+  },
+  {
+    "AttractionName": "早與晨Brunch",
+    "type": [
+      "吃的"
+    ]
+  },
+  {
+    "AttractionName": "ACME｜Cafe Bar & Restaurant 臺北表演藝術中心",
+    "type": [
+      "表演藝文"
+    ]
+  },
+  {
+    "AttractionName": "國王沙爹 SATAY.TW",
+    "type": [
+      ""
+    ]
+  },
+  {
+    "AttractionName": "自己做 台北士林店",
+    "type": [
+      ""
+    ]
+  },
+  {
+    "AttractionName": "銃工廠 生存遊戲專門店",
+    "type": [
+      ""
+    ]
+  },
+  {
+    "tips": "先把連鎖處理掉,景點餐廳2: 1,盡量找方圓內一套"
+  }
+]
