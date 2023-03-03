@@ -3,32 +3,17 @@
   {
     "AttractionName": "臨江街觀光夜市",
     "type": [
-      "夜間首選,城市郊遊"
-    ],
-    "Introduction": "具有客家文化的臨江街夜市，在大安區的住宅區裡，是臺北市少數合法掛牌設立的夜市，約有8年的歷史，近200個攤位的各種美食小吃，讓許多臺北人流連忘返，附近上班族幾乎天天在這裡吃晚飯，既省錢又美味。有名的小吃多到數不清，古早味的乾伴麵加肉羹湯、香滑順口的蚵仔麵線、好吃的臺式蚵仔煎、香噴噴的烤香腸、入味不油的狀元滷味、灑了滿滿花生粉的豬血糕、石家刈包香香軟軟的魯肉、清香好喝的米粉湯、小朋友最愛的雞蛋糕等等，各式美食應有盡有 ，就這麼邊逛邊吃，真是太滿足了！沿著文昌街走下去，還有流行時尚的中、西式家具店，各式新穎獨特的造型，也是快活。",
-    "OpenStatus": "1",
-    "City": "臺北市",
-    "Distric": "大安區",
-    "Address": "",
-    "Tel": "886-2-25505220",
-    "Email": "",
-    "Nlat": 121.55423736572266,
-    "Elong": 25.03019905090332,
-    "OfficialSite": "https://www.tcma.gov.taipei/News_Content.aspx?n=FAC14AD2DE4E01A4&sms=32F7BA052C5CA548&s=9A5FBF2E607D28CA",
-    "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
-    "OpenTime": "每日18:00~24:00",
-    "ZipCode": "106",
-    "Images": {
-      "Src": "https://www.travel.taipei/image/89198"
-    }
-  },
-  {
-    "AttractionName": "經國七海文化園區",
-    "type": [
-      "拍照聖地,城市郊遊,室外,放鬆療育"
+      "夜間首選,放鬆療癒,冒險刺激,室外活潑,懶人靜態,城市郊遊,拍照聖地,文藝青年,奇奇怪怪,親子互動",
+      "夜間首選",
+      "放鬆療癒",
+      "冒險刺激",
+      "室外活潑",
+      "懶人靜態",
+      "城市郊遊",
+      "拍照聖地",
+      "文藝青年",
+      "奇奇怪怪",
+      "親子互動"
     ],
     "Introduction": "經國七海文化園區是位於臺灣臺北市大直的國家紀念建築，係已故前中華民國總統蔣經國的紀念建築群。園區內建築包含蔣經國故居七海寓所與台北市政府BOT規劃興建的蔣經國總統圖書館。",
     "OpenStatus": "1",
@@ -37,13 +22,37 @@
     "Address": "台北市中山區北安路301號",
     "Tel": "886-2-25326077",
     "Email": "service@ccklibrary.org.tw",
-    "Nlat": 121.53686351828526,
-    "Elong": 25.079050243130318,
+    "Nlat": 25,
+    "Elong": 123,
     "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
     "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": []
+    }
+  },
+  {
+    "AttractionName": "經國七海文化園區",
+    "type": [
+      "拍照聖地",
+      "城市郊遊",
+      "室外活潑",
+      "放鬆療癒",
+      "懶人靜態",
+      "文藝青年",
+      "親子互動"
+    ],
+    "Introduction": "經國七海文化園區是位於臺灣臺北市大直的國家紀念建築，係已故前中華民國總統蔣經國的紀念建築群。園區內建築包含蔣經國故居七海寓所與台北市政府BOT規劃興建的蔣經國總統圖書館。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Nlat": 25.079050243130318,
+    "Elong": 121.53686351828526,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
     "OpenTime": "星期一休息,每日9:00–17:00",
     "Images": {
       "Src": [
@@ -58,7 +67,13 @@
   {
     "AttractionName": "徜徉餐廳",
     "type": [
-      "拍照聖地,城市郊遊,室外,放鬆療育"
+      "拍照聖地",
+      "城市郊遊",
+      "室外活潑",
+      "放鬆療癒",
+      "懶人靜態",
+      "文藝青年",
+      "親子互動"
     ],
     "Introduction": "位於經國七海文化園區一樓南側，提供遊客在導覽結束後，可以繼續留下來稍做休憩及享用餐點和飲品的地方。餐廳提供遊客數款簡單茶食及特色茶飲，茶食部分提供中式的佐味茶點及傳統飽食麵點，飲品以茶類飲料為主。",
     "OpenStatus": "1",
@@ -71,9 +86,6 @@
     "Elong": 25.078785226392817,
     "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
     "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
     "OpenTime": "星期一休息,每日9:00–17:00",
     "Images": {
       "Src": [
@@ -89,7 +101,13 @@
   {
     "AttractionName": "Wave餐廳",
     "type": [
-      "拍照聖地,城市郊遊,室外,放鬆療育"
+      "拍照聖地",
+      "城市郊遊",
+      "室外活潑",
+      "放鬆療癒",
+      "懶人靜態",
+      "文藝青年",
+      "親子互動"
     ],
     "Introduction": "位於經國七海文化園區遊客中心二樓，提供遊客咖啡、簡易軟硬性飲料及西式輕食，亦可不定期提供場地舉辦講座展覽或活動包場。餐點內容以西式套餐為主，並搭配飲料及蛋糕。",
     "OpenStatus": "1",
@@ -98,13 +116,10 @@
     "Address": "台北市中山區北安路301號",
     "Tel": "886-2-25326077",
     "Email": "service@ccklibrary.org.tw",
-    "Nlat": 121.53763014800909,
-    "Elong": 25.077891350206013,
+    "Nlat": 25.077891350206013,
+    "Elong": 121.53763014800909,
     "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
     "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
     "OpenTime": "星期一休息,每日9:00–17:00",
     "Images": {
       "Src": [
@@ -120,7 +135,13 @@
   {
     "AttractionName": "圓山大飯店 花園咖啡廳",
     "type": [
-      "拍照聖地,城市郊遊,室外,放鬆療育"
+      "懶人靜態x",
+      "拍照聖地",
+      "城市郊遊",
+      "室外活潑",
+      "放鬆療癒",
+      "文藝青年",
+      "親子互動"
     ],
     "Introduction": "花園咖啡廳位於一樓大廳左側，提供各式單點餐飲、精緻甜點、英式下午茶及咖啡飲品。餐廳裝潢以傳統的建築與當代藝術兼融合併，特別邀請國際知名藝術家率領專業花藝團隊，為花園咖啡廳打成造當代藝術新亮點。",
     "OpenStatus": "1",
@@ -129,13 +150,10 @@
     "Address": "台北市中山區中山北路四段一號",
     "Tel": "886-2-8868888",
     "Email": "grand@grand-hotel.org",
-    "Nlat": 121.52563261763162,
-    "Elong": 25.076944918422658,
+    "Nlat": 25.076944918422658,
+    "Elong": 121.52563261763162,
     "OfficialSite": "https://www.grand-hotel.org/TW/official/restaurant-detail.aspx?gh=TP&serno=19",
     "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
     "OpenTime": "每日08:00~22:30",
     "Images": {
       "Src": [
@@ -149,7 +167,11 @@
   {
     "AttractionName": "圓山河濱公園溜冰場",
     "type": [
-      "拍照聖地,城市郊遊,室外,冒險刺激"
+      "夜間首選",
+      "拍照聖地",
+      "城市郊遊",
+      "室外活潑",
+      "親子互動"
     ],
     "Introduction": "公園位於中山橋上游至大直橋間(右岸)，腹地狹長面積不大約8.6公頃，自行車道兩旁植被茂盛，靜靜的開著小黃花，行走其中，有穿越綠色森林的感覺。這裡設置有簡單的體健設施及溜冰場，可以讓附近的居民有多一點的休憩空間。",
     "OpenStatus": "1",
@@ -158,13 +180,10 @@
     "Address": "台北市中山區",
     "Tel": "",
     "Email": "grand@grand-hotel.org",
-    "Nlat": 121.52717614722611,
-    "Elong": 25.074644395726917,
+    "Nlat": 25.074644395726917,
+    "Elong": 121.52717614722611,
     "OfficialSite": "https://heo.gov.taipei/News_Content.aspx?n=E65DBD99C91AEAC4&sms=3A0FD6D3764BFBA7&s=32AD01DE379CE197",
     "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
     "OpenTime": "24小時營業",
     "Images": {
       "Src": [
@@ -177,7 +196,11 @@
   {
     "AttractionName": "微風平台",
     "type": [
-      "拍照聖地,城市郊遊,室外,夜間首選"
+      "拍照聖地",
+      "城市郊遊",
+      "放鬆療癒",
+      "室外活潑",
+      "夜間首選"
     ],
     "Introduction": "圓山風景區是交通易達、安排一日遊的好去處，可以走劍潭山親山步道至老地方觀機平台，去年新設置的微風平台，可遠眺淡水河及遠方的觀音山。趁著新春連假，相約親朋好友來趟圓山強身樂活之旅，開啟一整年健康樂活好心情。",
     "OpenStatus": "1",
@@ -186,13 +209,10 @@
     "Address": "台北市中山區中山北路四段1巷1弄No. 3號",
     "Tel": "",
     "Email": "",
-    "Nlat": 121.52846598575641,
-    "Elong": 25.08410544842676,
+    "Nlat": 25.08410544842676,
+    "Elong": 121.52846598575641,
     "OfficialSite": "",
     "Facebook": "",
-    "Remind": "",
-    "StayTime": "",
-    "Target、Service": "",
     "OpenTime": "",
     "Images": {
       "Src": [
@@ -207,26 +227,105 @@
   {
     "AttractionName": "線形公園(劍潭)特色遊戲場",
     "type": [
-      "親子"
-    ]
+      "放鬆療癒",
+      "室外活潑",
+      "城市郊遊",
+      "文藝青年",
+      "拍照聖地",
+      "親子互動"
+    ],
+    "Introduction": "捷運線形公園(劍潭)遊戲場位於士林區通河街2巷旁捷運高架橋下方，設計上融入當地特有之龍舟文化元素，為當地及具特色之龍舟造型遊具，主要提供2-12歲兒童使用，讓到此遊玩的兒童體驗當地獨有的龍舟文化。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "111台北市士林區通河街2巷",
+    "Tel": "",
+    "Email": "",
+    "Nlat": 25.079071278992835,
+    "Elong": 121.52341594977003,
+    "OfficialSite": "https://parks.taipei/playground/content/m102.php?sid=863",
+    "Facebook": "",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MTA1NzQ5OS1mMTM2LTRmOTktODFiYy00NDhkZmRhZDNiZGEuanBn&n=5YWo5pmvLmpwZw%3d%3d&icon=.jpg",
+        "https://obs.line-scdn.net/0hPee4eqkfD0pYTRtIST1wHWAbAztrKxVDeiNAKX8YBXIgYU4bZylcKXseVGYlLhgZeH9CLnxMVnpyeUweYA/w1200",
+        "https://obs.line-scdn.net/0hcu1IRiHIPFoMMChYHUBDDTRmMCs_ViZTLlVzPyw0Z2khHHwKNgRvOXs5ZHZyV38MLF92Oyw0ZG12CXsIMw/w1200",
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MzRiMTZiMC0zMjllLTRkYzItYmM4ZS1jODAwOGFkYTRlMjkuanBn&n=6b6N6Iif6YCg5Z6L6YGK5YW357WELmpwZw%3d%3d&icon=.jpg"
+      ]
+    }
   },
   {
-    "AttractionName": "顏水龍",
+    "AttractionName": "顏水龍水牛圖馬賽克壁畫",
     "type": [
+      "放鬆療癒",
+      "城市郊遊",
       "拍照聖地"
-    ]
+    ],
+    "Introduction": "位於圓山腳下的劍潭公園，佔地面積為6935平方公尺，為一處狹長型的公園，公園內綠意盎然、草木扶疏，園內最具特色的景觀便是擋土牆上的馬賽克壁畫「水牛圖」，是名畫家顏水龍先生的作品，作品中描繪著早期農業時候的台灣，忙碌的田園生活情形，這裡也是市民散步休憩的好去處。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區",
+    "Tel": "",
+    "Email": "",
+    "Nlat": 25.08011123875748,
+    "Elong": 121.52468013685649,
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "",
+    "Images": {
+      "Src": [
+        "https://img.yamol.tw/file/5d0f63f60759b.jpg#s-1024,363",
+        "https://publicart.taipei/admincms/upload_file/works/20150409_094508.691.png",
+        "https://publicart.taipei/admincms/upload_file/works/20150409_094514.728.png",
+        "https://publicart.taipei/admincms/upload_file/works/20150409_095140.135.png",
+        "https://bisuttaiwan.files.wordpress.com/2021/07/e59c966_e5b7a5e6a5ade7a4bee69c83.jpg?w=1024"
+      ]
+    }
   },
   {
     "AttractionName": "早與晨Brunch",
     "type": [
-      "吃的"
-    ]
+      "放鬆療癒",
+      "懶人靜態",
+      "城市郊遊",
+      "親子互動"
+    ],
+    "Introduction": "早與晨Brunch是一間位於台北市士林區的早午餐餐廳",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區通河街9號",
+    "Tel": "0908888768",
+    "Email": "",
+    "Nlat": 25.08011123875748,
+    "Elong": 121.52468013685649,
+    "OfficialSite": "https://website--6404157071856062822137-brunchrestaurant.business.site/",
+    "Facebook": "",
+    "OpenTime": "週二休息，每日07:00 – 14:00",
+    "Images": {
+      "Src": [
+        "https://lh3.googleusercontent.com/p/AF1QipNqNJ2LYNFw9UA6-PijDvSVeAn3V1epWgrntxkB=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipNNmp5iqI919NwuqEVdfujo6sN5_A75jlhnP0sl=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipNUj7-Zp-wU9EmL3Jmo9xCV9ikCG5V3J0Kzc-eR=w960-h960-n-o-k-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipPgiBkQ1eEYHUlQnaLSYevmIlRVBiX50ULej5vr=w960-h960-n-o-k-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipOpPvcSeDwEAvzCFTLOr9Wi3eK5OHhwly6n-MXi=w960-h960-n-o-k-v1"
+      ]
+    }
   },
   {
     "AttractionName": "ACME｜Cafe Bar & Restaurant 臺北表演藝術中心",
     "type": [
-      "表演藝文"
-    ]
+      "夜間首選,放鬆療癒,冒險刺激,室外活潑,懶人靜態,城市郊遊,拍照聖地,文藝青年,奇奇怪怪,親子互動"
+    ],
+    "Images": {
+      "Src": [
+        "https://cdn.shopify.com/s/files/1/0549/1471/1701/t/4/assets/img_7626-1-1657004742916.jpg?v=1657004636",
+        "https://cdn.shopify.com/s/files/1/0549/1471/1701/t/4/assets/1173-1656571656723.jpg?v=1656571658",
+        "https://cdn.shopify.com/s/files/1/0549/1471/1701/t/4/assets/20220912acme-menu01-1663038127066.png?v=1663038129"
+      ]
+    }
   },
   {
     "AttractionName": "國王沙爹 SATAY.TW",
@@ -245,8 +344,5 @@
     "type": [
       ""
     ]
-  },
-  {
-    "tips": "先把連鎖處理掉,景點餐廳2: 1,盡量找方圓內一套"
   }
 ]
