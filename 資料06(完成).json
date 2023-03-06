@@ -1,0 +1,236 @@
+[
+  {
+    "AttractionName": "MissGAME密室逃脫-大直館",
+    "Type": [
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5471339849689,
+    "Nlat": 25.080995279825643
+  },
+  {
+    "AttractionName": "培英公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5449810504216,
+    "Nlat": 25.08212165849793
+  },
+  {
+    "AttractionName": "明水公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54834725520209,
+    "Nlat": 25.079163717353843
+  },
+  {
+    "AttractionName": "i-SPORTS乒乓客桌球教室",
+    "Type": [
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5504613731434,
+    "Nlat": 25.080479575874364
+  },
+  {
+    "AttractionName": "ATT e Life",
+    "Type": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "以「美麗新女人」前所未有的概念打造創新型態服務性商場，全台首創結合「玩樂學習」,「互動智能科技」,「戶外休閒」及「時尚美食」四大元素。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55546926664017,
+    "Nlat": 25.081097393625175
+  },
+  {
+    "AttractionName": "蓬萊高爾夫練習場",
+    "Type": [
+      3,
+      4,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55697450386799,
+    "Nlat": 25.08177550816851
+  },
+  {
+    "AttractionName": "月讀女僕咖啡大直ATT店",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55553167672167,
+    "Nlat": 25.081501500000016
+  },
+  {
+    "AttractionName": "亞洲藝術中心 Asia Art Center",
+    "Type": [
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55513704238348,
+    "Nlat": 25.082489162523352
+  },
+  {
+    "AttractionName": "中427公園",
+    "Type": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "Introduction": "有旋轉木馬那個",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55599058462978,
+    "Nlat": 25.08040636052452
+  },
+  {
+    "AttractionName": "美堤極限公園",
+    "Type": [
+      1,
+      2,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55481568132095,
+    "Nlat": 25.07654018032259
+  },
+  {
+    "AttractionName": "M Club",
+    "Type": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55570162564729,
+    "Nlat": 25.076260691640837
+  },
+  {
+    "AttractionName": "上塔悠公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55398593705394,
+    "Nlat": 25.077299936858587
+  },
+  {
+    "AttractionName": "中430公園",
+    "Type": [
+      6
+    ],
+    "Introduction": "不大的公園",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5534866607524,
+    "Nlat": 25.078454952334877
+  },
+  {
+    "AttractionName": "",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5600418491682,
+    "Nlat": 25.079635395736037
+  },
+  {
+    "AttractionName": "下塔悠鎮安宮蕭府王爺",
+    "Type": [
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.56485428658686,
+    "Nlat": 25.0771921340124
+  },
+  {
+    "AttractionName": "BRICK PAPA 內湖展示空間",
+    "Type": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.56511224118508,
+    "Nlat": 25.07963296957226
+  },
+  {
+    "AttractionName": "洲子一號公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.56451608027925,
+    "Nlat": 25.079865456002146
+  }
+]

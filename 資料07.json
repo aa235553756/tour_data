@@ -1,0 +1,207 @@
+[
+  "第一筆為示範",
+  {
+    "AttractionName": "",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "台北玻璃金字塔",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5246956188022,
+    "Nlat": 25.0703922904028
+  },
+  {
+    "AttractionName": "台北長春國賓影城",
+    "Type": [
+      3,
+      4,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53425794718764,
+    "Nlat": 25.054581631767714
+  },
+  {
+    "AttractionName": "飛機巷",
+    "Type": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53839319774806,
+    "Nlat": 25.07004938554476
+  },
+  {
+    "AttractionName": "新潮釣蝦美食廣場",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      4,
+      7,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53597224491075,
+    "Nlat": 25.06851570627402
+  },
+  {
+    "AttractionName": "福德涼麵",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54115473662186,
+    "Nlat": 25.055985536358964
+  },
+  {
+    "AttractionName": "松江市場",
+    "Type": [
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5321975733666,
+    "Nlat": 25.060218760292656
+  },
+  {
+    "AttractionName": "全佳樂釣蝦場",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      4,
+      6,
+      7,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53069148713202,
+    "Nlat": 25.06030914936813
+  },
+  {
+    "AttractionName": "曾家豆漿",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52888719244302,
+    "Nlat": 25.06043257454445
+  },
+  {
+    "AttractionName": "貓藝家Cat.Art.Home",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "請記得預約",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5284546210502,
+    "Nlat": 25.059870764524828
+  },
+  {
+    "AttractionName": "女王漢堡",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52348331778232,
+    "Nlat": 25.068311947475312
+  },
+  {
+    "AttractionName": "錢櫃 台北松江店",
+    "Type": [
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53333051458345,
+    "Nlat": 25.05692782980181
+  },
+  {
+    "AttractionName": "Relax 33莊園【五感按摩】",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52230016391658,
+    "Nlat": 25.052405436357613
+  },
+  {
+    "AttractionName": "Game Square 遊戲平方 | 桌遊中山店",
+    "Type": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52311374207483,
+    "Nlat": 25.05165721488273
+  },
+  {
+    "AttractionName": "桌遊天空城",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52558391192086,
+    "Nlat": 25.048777815803593
+  }
+]

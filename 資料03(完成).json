@@ -1,0 +1,233 @@
+[
+  {
+    "AttractionName": "藍秋cafe",
+    "Type": [
+      8
+    ],
+    "Introduction": "有提供 餐點、甜點、生日蛋糕、鮮奶油蛋糕、飲品、自家烘培咖啡，沒有任何化學 人工添加物 沒有華麗的外表 只有實在的味道 用心體會所有食材最原始的味道 我們一直在遵循這個道路 食的安心 撫慰人心",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區承德路四段10巷18號",
+    "Tel": "886-2-28857750",
+    "Email": "",
+    "Elong": 121.52102003475444,
+    "Nlat": 25.079634796937206,
+    "OfficialSite": "https://www.instagram.com/lan_qui_think/",
+    "Facebook": "https://www.facebook.com/zabusweet/?locale=zh_TW",
+    "OpenTime": "星期一、二、三、四(休)，每日11:30~17:30",
+    "Images": {
+      "Src": [
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t1.6435-9/176518510_1981936835287624_2952442251674095187_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=YWkwRImzlC0AX9FH6er&_nc_ht=scontent.frmq3-1.fna&oh=00_AfAx1ZP3UDcXGas7FfvE6t1y9_25ehhR__nb5WivLpQhFw&oe=642A548B",
+        "https://scontent.frmq3-2.fna.fbcdn.net/v/t1.6435-9/163437951_1957341477747160_1103789469884361720_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nQfh0_m9f9IAX9DcSjP&_nc_ht=scontent.frmq3-2.fna&oh=00_AfAsJ3o-Jn-2htkT5FA2VZy6t2vPpOuUqaIbqFWP4gP0kg&oe=642A5FBE",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t1.6435-9/165178615_1955821841232457_7024050770374899206_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WPrDkOmCCF4AX8RsgnN&_nc_ht=scontent.frmq3-1.fna&oh=00_AfCCiYAVtTMFqlTlbno9vYE0GNbflMLGCbfvvphahmzXUg&oe=642A4DC1",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t1.6435-9/122193789_1825484144266228_9130454111907258423_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=LnqGvDAj7GcAX8jFWG9&_nc_ht=scontent.frmq3-1.fna&oh=00_AfBjiLY7eYtHRhivj40nOfeugn61JiOKHDOPkcIfrP9UfA&oe=642A5389",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t39.30808-6/329611320_889018619095513_3879392927234895703_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=96ABoz23sX0AX_C30IR&_nc_ht=scontent.frmq3-1.fna&oh=00_AfCIoQkBCXXCcZibV-Nj73tkz8soR4Ff7cNVR89cGdlJtw&oe=640740A6"
+      ]
+    }
+  },
+  {
+    "AttractionName": "劍潭肉圓王",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52025348582698,
+    "Nlat": 25.080503252886764
+  },
+  {
+    "AttractionName": "雙溪濕地公園",
+    "Type": [
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51301181778929,
+    "Nlat": 25.097358092755687
+  },
+  {
+    "AttractionName": "雙溪濕地公園 水中步道",
+    "Type": [
+      2,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51170698520875,
+    "Nlat": 25.096799060838368
+  },
+  {
+    "AttractionName": "士林教會聖經故事彩繪牆",
+    "Type": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52197621626054,
+    "Nlat": 25.094136679478392
+  },
+  {
+    "AttractionName": "美崙公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51738075359897,
+    "Nlat": 25.097257340721917
+  },
+  {
+    "AttractionName": "漫果子桌遊主題餐廳士林店",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52313845188768,
+    "Nlat": 25.094309317181484
+  },
+  {
+    "AttractionName": "小倉庫食研所",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52132280653052,
+    "Nlat": 25.09695448683647
+  },
+  {
+    "AttractionName": "INTRO",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51877627557936,
+    "Nlat": 25.09359157681605
+  },
+  {
+    "AttractionName": "埃及傳說",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52002029844743,
+    "Nlat": 25.097214943954118
+  },
+  {
+    "AttractionName": "川藤島",
+    "Type": [
+      2,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5102044711493,
+    "Nlat": 25.09562433209463
+  },
+  {
+    "AttractionName": "百齡河濱公園",
+    "Type": [
+      2,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51515763572115,
+    "Nlat": 25.08745107082616
+  },
+  {
+    "AttractionName": "漸層蘭咖啡JCL Coffee & Cake",
+    "Type": [
+      5,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51531705338924,
+    "Nlat": 25.091034162801456
+  },
+  {
+    "AttractionName": "躺著吃手工法式甜點",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51515489554835,
+    "Nlat": 25.09100628258373
+  },
+  {
+    "AttractionName": "三腳渡狗狗活動區",
+    "Type": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51672324309213,
+    "Nlat": 25.08153285061891
+  },
+  {
+    "AttractionName": "歡樂便所主題餐廳",
+    "Type": [
+      2,
+      6,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52682223165358,
+    "Nlat": 25.08957786605046
+  }
+]

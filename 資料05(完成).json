@@ -1,0 +1,279 @@
+[
+  {
+    "AttractionName": "劍南山夜景",
+    "Type": [
+      2,
+      3,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5498534551889,
+    "Nlat": 25.089903619389784
+  },
+  {
+    "AttractionName": "實踐大學 臺北校區",
+    "Type": [
+      1,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54520455064294,
+    "Nlat": 25.08307178898814
+  },
+  {
+    "AttractionName": "Howbon Floral Design花藝設計工作室",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54518945468719,
+    "Nlat": 25.081611162996865
+  },
+  {
+    "AttractionName": "花年國際花坊",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54609884890765,
+    "Nlat": 25.081401320452166
+  },
+  {
+    "AttractionName": "大直樂融畫室",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.546239293353,
+    "Nlat": 25.08196270553203
+  },
+  {
+    "AttractionName": "Morningcat Flower 花藝",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54565416586617,
+    "Nlat": 25.082414771788052
+  },
+  {
+    "AttractionName": "L'atelier d' À ma façon 焙窩手工甜點",
+    "Type": [
+      8
+    ],
+    "Introduction": "一間在巷弄中的甜點廚房，提供每日限量製作的手工甜點。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5479577460684,
+    "Nlat": 25.084077780608425
+  },
+  {
+    "AttractionName": "Meihouse Art Studio 梅也家畫室",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 121.54905003926665,
+    "Nlat": 25.08496107055332
+  },
+  {
+    "AttractionName": "自強公園",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5476103470038,
+    "Nlat": 25.086329666408933
+  },
+  {
+    "AttractionName": "北安休閒運動中心",
+    "Type": [
+      3,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54248722818292,
+    "Nlat": 25.079210293996482
+  },
+  {
+    "AttractionName": "大直市場",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54528049404463,
+    "Nlat": 25.078609444700692
+  },
+  {
+    "AttractionName": "富康足體養生館|大直",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54574733332518,
+    "Nlat": 25.07880732320202
+  },
+  {
+    "AttractionName": "安可水族館Guppy",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "(純品系孔雀魚培育所) aquarium 各式觀賞魚. 鬥魚. 烏龜. 陸龜. 燈魚. 鼠魚.角蛙",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54570346728939,
+    "Nlat": 25.078897739970277
+  },
+  {
+    "AttractionName": "台北都更解壓說概念館",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54706628977698,
+    "Nlat": 25.0794093427141
+  },
+  {
+    "AttractionName": "永直公園",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55055503653779,
+    "Nlat": 25.081389380542465
+  },
+  {
+    "AttractionName": "EnterSpace 密室逃脫",
+    "Type": [
+      5,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 121.55093045345691,
+    "Nlat": 25.080181057622053
+  },
+  {
+    "AttractionName": "Art Space 563",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55182636835899,
+    "Nlat": 25.079376488487675
+  },
+  {
+    "AttractionName": "劍南蝶園",
+    "Type": [
+      2,
+      3,
+      7,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55374280631727,
+    "Nlat": 25.087429419697298
+  },
+  {
+    "AttractionName": "劍南蝶園觀景台",
+    "Type": [
+      1,
+      2,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55481166935722,
+    "Nlat": 25.08671755405597
+  },
+  {
+    "AttractionName": "大直愛樂旺四面佛",
+    "Type": [
+      2,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55416348252314,
+    "Nlat": 25.086251117604803
+  },
+  {
+    "AttractionName": "美麗新大直皇家影城",
+    "Type": [
+      3,
+      4,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55372642763187,
+    "Nlat": 25.084982470823128
+  }
+]
