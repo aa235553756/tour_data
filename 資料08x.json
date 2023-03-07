@@ -83,5 +83,92 @@
     "Distric": "大同區",
     "Elong": 121.52063023295945,
     "Nlat": 25.056864649369558
+  },
+  {
+    "AttractionName": "滋養和菓子",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50941692786384,
+    "Nlat": 25.060477343307593
+  },
+  {
+    "AttractionName": "京站時尚廣場",
+    "Type": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51716141339526,
+    "Nlat": 25.049295609029258
+  },
+  {
+    "AttractionName": "臺北京站威秀影城",
+    "Type": [
+      3,
+      4,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51854396245342,
+    "Nlat": 25.04900164907186
+  },
+  {
+    "AttractionName": "熱那亞義式冰淇淋 GELATO",
+    "Type": [
+      3,
+      6,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51121186532293,
+    "Nlat": 25.051597414245315
+  },
+  {
+    "AttractionName": "小時代寫真館",
+    "Type": [
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50945599391355,
+    "Nlat": 25.054142084636837
+  },
+  {
+    "AttractionName": "AKA café",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51048204505838,
+    "Nlat": 25.057711459634632
   }
 ]

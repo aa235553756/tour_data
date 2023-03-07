@@ -203,5 +203,243 @@
     "Distric": "中山區",
     "Elong": 121.52558391192086,
     "Nlat": 25.048777815803593
+  },
+  {
+    "AttractionName": "不老客家傳統麻糬",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53336568354808,
+    "Nlat": 25.061013876095675
+  },
+  {
+    "AttractionName": "黑岩古早味黑砂糖剉冰 錦州店",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5314585441572,
+    "Nlat": 25.06037501897216
+  },
+  {
+    "AttractionName": "金稻子餐廳 酸菜白肉鍋",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 121.53036074736268,
+    "Nlat": 25.059273288291752
+  },
+  {
+    "AttractionName": "idu 原住民小吃部",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52923135129905,
+    "Nlat": 25.061983373186944
+  },
+  {
+    "AttractionName": "維傑 印度餐廳",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5440675360758,
+    "Nlat": 25.063410824023567
+  },
+  {
+    "AttractionName": "九點零一分韓式早午餐",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53391474754235,
+    "Nlat": 25.06412620367712
+  },
+  {
+    "AttractionName": "捲餅咬鹿",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53833122868747,
+    "Nlat": 25.060301706431815
+  },
+  {
+    "AttractionName": "CEO1950 總裁藝文空間",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52651605186843,
+    "Nlat": 25.06569450862078
+  },
+  {
+    "AttractionName": "路邊烤肉wildbbq 中山",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52322963610908,
+    "Nlat": 25.063620334205414
+  },
+  {
+    "AttractionName": "SecretBistro秘密小酒館",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52912432176387,
+    "Nlat": 25.064089853003093
+  },
+  {
+    "AttractionName": "中山藝文廊",
+    "Type": [
+      1,
+      2,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52039734187228,
+    "Nlat": 25.05211874303032
+  },
+  {
+    "AttractionName": "中山地下街",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52010771507507,
+    "Nlat": 25.050297134617153
+  },
+  {
+    "AttractionName": "RFD 運動冒險空間",
+    "Type": [
+      5,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53199232251976,
+    "Nlat": 25.071056149095163
+  },
+  {
+    "AttractionName": "羊毛與花 ‧ 光點",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52219622272455,
+    "Nlat": 25.05325272912435
+  },
+  {
+    "AttractionName": "時差 Jetlag",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52893328246036,
+    "Nlat": 25.055771134464322
+  },
+  {
+    "AttractionName": "January Couple",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53210995357657,
+    "Nlat": 25.057804247346155
+  },
+  {
+    "AttractionName": "臺北市中山運動中心",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52132068661629,
+    "Nlat": 25.05483659174167
+  },
+  {
+    "AttractionName": "The fluffy shadow",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52055061345561,
+    "Nlat": 25.0552816908631
   }
 ]
