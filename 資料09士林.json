@@ -1,0 +1,168 @@
+[
+  "第一筆為示範",
+  {
+    "AttractionName": "",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "百齡左岸河濱公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.512709966786,
+    "Nlat": 25.087499896584575
+  },
+  {
+    "AttractionName": "海光公園",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50772052508458,
+    "Nlat": 25.082364663939316
+  },
+  {
+    "AttractionName": "金花宅甜點（花宅）",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50856679577804,
+    "Nlat": 25.0844790258092
+  },
+  {
+    "AttractionName": "百齡碼頭",
+    "Type": [
+      1,
+      2,
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51315942549304,
+    "Nlat": 25.087215470966584
+  },
+  {
+    "AttractionName": "百齡左岸溜冰場（社子岸）",
+    "Type": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51314104349262,
+    "Nlat": 25.085425807770886
+  },
+  {
+    "AttractionName": "KUI酷愛生存遊戲專賣-台北重慶店",
+    "Type": [
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "社正公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51042520165561,
+    "Nlat": 25.087775116874464
+  },
+  {
+    "AttractionName": "社子夜市",
+    "Type": [
+      1,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50944131731654,
+    "Nlat": 25.087763920039027
+  },
+  {
+    "AttractionName": "社子公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50618661676779,
+    "Nlat": 25.09119057880766
+  },
+  {
+    "AttractionName": "台北花卉村",
+    "Type": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.49774433657618,
+    "Nlat": 25.09466970078984
+  },
+  {
+    "AttractionName": "小學堂漂移 卡丁車士林館",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.49871423742887,
+    "Nlat": 25.09527794868373
+  }
+]

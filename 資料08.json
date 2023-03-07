@@ -1,0 +1,246 @@
+[
+  "第一筆為示範",
+  {
+    "AttractionName": "",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "納豆劇場Nadou Theatre",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同",
+    "Elong": 121.50898737099983,
+    "Nlat": 25.05563579645332
+  },
+  {
+    "AttractionName": "樹德公園",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同",
+    "Elong": 121.51629905470783,
+    "Nlat": 25.066886681225164
+  },
+  {
+    "AttractionName": "敦煌疏散門",
+    "Type": [
+      1,
+      2
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50845178333401,
+    "Nlat": 25.07655452656012
+  },
+  {
+    "AttractionName": "冷氣室外機奇觀",
+    "Type": [
+      1,
+      2
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.5198379028432,
+    "Nlat": 25.057880902790252
+  },
+  {
+    "AttractionName": "星橋綠坡",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.52063023295945,
+    "Nlat": 25.056864649369558
+  },
+  {
+    "AttractionName": "世界美食總匯",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.5126744065472,
+    "Nlat": 25.05826743391314
+  },
+  {
+    "AttractionName": "花日紙",
+    "Type": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50876792375931,
+    "Nlat": 25.060925829293488
+  },
+  {
+    "AttractionName": "Minim Photographic Studio + Gallery 明凝攝影工作室•藝廊",
+    "Type": [
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50901379137947,
+    "Nlat": 25.06092875983451
+  },
+  {
+    "AttractionName": "純純電影音樂咖啡/講古故事館",
+    "Type": [
+      3,
+      5,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50938365888081,
+    "Nlat": 25.061086955138546
+  },
+  {
+    "AttractionName": "六號吉拿棒迪化店",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50943380293484,
+    "Nlat": 25.060722102710745
+  },
+  {
+    "AttractionName": "double 8 岩究所 攀岩 健身 裝備",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50935870205845,
+    "Nlat": 25.06073463672834
+  },
+  {
+    "AttractionName": "荒宅探險/夜間百年古宅體驗",
+    "Type": [
+      2,
+      5,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50919986250138,
+    "Nlat": 25.062994118268776
+  },
+  {
+    "AttractionName": "十四水門阿宏記憶館（黑膠體驗館）",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50981668220899,
+    "Nlat": 25.06294326652995
+  },
+  {
+    "AttractionName": "洪瑞珍三明治 重慶店",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51352055776005,
+    "Nlat": 25.066401479503284
+  },
+  {
+    "AttractionName": "百和會館",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51397832723947,
+    "Nlat": 25.066974678489423
+  },
+  {
+    "AttractionName": "薰衣草花坊",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.5139972429199,
+    "Nlat": 25.06913762003457
+  },
+  {
+    "AttractionName": "水手兩棲爬蟲•異寵-台北店",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51354131852412,
+    "Nlat": 25.071657470350026
+  }
+]
