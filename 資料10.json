@@ -1,18 +1,4 @@
 [
-  "第一筆為示範",
-  {
-    "AttractionName": "",
-    "Type": [
-      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
-      1
-    ],
-    "Introduction": "",
-    "OpenStatus": "1",
-    "City": "臺北市",
-    "Distric": "XX區",
-    "Elong": 123.00,
-    "Nlat": 25.00
-  },
   {
     "AttractionName": "關渡美術館",
     "Type": [
