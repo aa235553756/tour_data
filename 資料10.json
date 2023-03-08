@@ -1,0 +1,93 @@
+[
+  "第一筆為示範",
+  {
+    "AttractionName": "",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "關渡美術館",
+    "Type": [
+      1,
+      2,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.47182861676968,
+    "Nlat": 25.133219687144994
+  },
+  {
+    "AttractionName": "捷運北投會館逃生體驗營",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.48406991526822,
+    "Nlat": 25.135819228553004
+  },
+  {
+    "AttractionName": "草山夜未眠",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.53551813631213,
+    "Nlat": 25.133956344393496
+  },
+  {
+    "AttractionName": "BRICK YARD 33 1/3美軍俱樂部",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.54315459650859,
+    "Nlat": 25.135407300352572
+  },
+  {
+    "AttractionName": "四季長廊觀景台",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "金唯一桶仔雞",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.50357063077332,
+    "Nlat": 25.117296300330068
+  }
+]
