@@ -1,36 +1,5 @@
 [
   {
-    "AttractionName": "經國七海文化園區",
-    "Type": [
-      1,
-      2,
-      3,
-      5,
-      6
-    ],
-    "Introduction": "經國七海文化園區是位於臺灣臺北市大直的國家紀念建築，係已故前中華民國總統蔣經國的紀念建築群。園區內建築包含蔣經國故居七海寓所與台北市政府BOT規劃興建的蔣經國總統圖書館。",
-    "OpenStatus": "1",
-    "City": "臺北市",
-    "Distric": "中山區",
-    "Address": "台北市中山區北安路301號",
-    "Tel": "886-2-25326077",
-    "Email": "service@ccklibrary.org.tw",
-    "Elong": 121.53686351828526,
-    "Nlat": 25.079050243130318,
-    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
-    "Facebook": "",
-    "OpenTime": "星期一休息,每日9:00–17:00",
-    "Images": {
-      "Src": [
-        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
-        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
-        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
-        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
-        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
-      ]
-    }
-  },
-  {
     "AttractionName": "徜徉餐廳",
     "Type": [
       1,
@@ -54,9 +23,9 @@
     "OpenTime": "星期一休息,每日9:00–17:00",
     "Images": {
       "Src": [
-        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0y_137_P5TX57v4-2e031056-a20c-41f3-913a-592774866a42_6155C066-70DC-46B0-B32B-B9CD6C3B0B94.png",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0y_137_P5TX57v4-2e031056-a20c-41f3-913a-592774866a42_6155C066-70DC-46B0-B32B-B9CD6C3B0B94.png",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
@@ -87,9 +56,9 @@
     "OpenTime": "星期一休息,每日9:00–17:00",
     "Images": {
       "Src": [
-        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0NeM_tKduzOlPwQ-9699567a-46f0-4b97-a3f4-7b2edaabd6b5_%C3%A5%C2%BE%C2%9C%C3%A5%C2%BE%C2%89Menu-1.jpg",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0NeM_tKduzOlPwQ-9699567a-46f0-4b97-a3f4-7b2edaabd6b5_%C3%A5%C2%BE%C2%9C%C3%A5%C2%BE%C2%89Menu-1.jpg",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
         "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
@@ -205,9 +174,9 @@
     "Images": {
       "Src": [
         "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MTA1NzQ5OS1mMTM2LTRmOTktODFiYy00NDhkZmRhZDNiZGEuanBn&n=5YWo5pmvLmpwZw%3d%3d&icon=.jpg",
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MzRiMTZiMC0zMjllLTRkYzItYmM4ZS1jODAwOGFkYTRlMjkuanBn&n=6b6N6Iif6YCg5Z6L6YGK5YW357WELmpwZw%3d%3d&icon=.jpg",
         "https://obs.line-scdn.net/0hPee4eqkfD0pYTRtIST1wHWAbAztrKxVDeiNAKX8YBXIgYU4bZylcKXseVGYlLhgZeH9CLnxMVnpyeUweYA/w1200",
-        "https://obs.line-scdn.net/0hcu1IRiHIPFoMMChYHUBDDTRmMCs_ViZTLlVzPyw0Z2khHHwKNgRvOXs5ZHZyV38MLF92Oyw0ZG12CXsIMw/w1200",
-        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MzRiMTZiMC0zMjllLTRkYzItYmM4ZS1jODAwOGFkYTRlMjkuanBn&n=6b6N6Iif6YCg5Z6L6YGK5YW357WELmpwZw%3d%3d&icon=.jpg"
+        "https://obs.line-scdn.net/0hcu1IRiHIPFoMMChYHUBDDTRmMCs_ViZTLlVzPyw0Z2khHHwKNgRvOXs5ZHZyV38MLF92Oyw0ZG12CXsIMw/w1200"
       ]
     }
   },
@@ -234,8 +203,7 @@
         "https://img.yamol.tw/file/5d0f63f60759b.jpg#s-1024,363",
         "https://publicart.taipei/admincms/upload_file/works/20150409_094508.691.png",
         "https://publicart.taipei/admincms/upload_file/works/20150409_094514.728.png",
-        "https://publicart.taipei/admincms/upload_file/works/20150409_095140.135.png",
-        "https://bisuttaiwan.files.wordpress.com/2021/07/e59c966_e5b7a5e6a5ade7a4bee69c83.jpg?w=1024"
+        "https://publicart.taipei/admincms/upload_file/works/20150409_095140.135.png"
       ]
     }
   },
