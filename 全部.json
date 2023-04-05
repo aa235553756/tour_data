@@ -1,0 +1,2454 @@
+[
+  {
+    "AttractionName": "經國七海文化園區",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "經國七海文化園區是位於臺灣臺北市大直的國家紀念建築，係已故前中華民國總統蔣經國的紀念建築群。園區內建築包含蔣經國故居七海寓所與台北市政府BOT規劃興建的蔣經國總統圖書館。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Elong": 121.53686351828526,
+    "Nlat": 25.079050243130318,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": [
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
+      ]
+    }
+  },
+  {
+    "AttractionName": "徜徉餐廳",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "Introduction": "位於經國七海文化園區一樓南側，提供遊客在導覽結束後，可以繼續留下來稍做休憩及享用餐點和飲品的地方。餐廳提供遊客數款簡單茶食及特色茶飲，茶食部分提供中式的佐味茶點及傳統飽食麵點，飲品以茶類飲料為主。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Elong": 25.078785226392817,
+    "Nlat": 121.53722283392173,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": [
+        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0y_137_P5TX57v4-2e031056-a20c-41f3-913a-592774866a42_6155C066-70DC-46B0-B32B-B9CD6C3B0B94.png",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
+      ]
+    }
+  },
+  {
+    "AttractionName": "Wave餐廳",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "Introduction": "位於經國七海文化園區遊客中心二樓，提供遊客咖啡、簡易軟硬性飲料及西式輕食，亦可不定期提供場地舉辦講座展覽或活動包場。餐點內容以西式套餐為主，並搭配飲料及蛋糕。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區北安路301號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Elong": 121.53763014800909,
+    "Nlat": 25.077891350206013,
+    "OfficialSite": "https://ccklibrary.org.tw/w/zh_tw/index",
+    "Facebook": "",
+    "OpenTime": "星期一休息,每日9:00–17:00",
+    "Images": {
+      "Src": [
+        "https://inline.imgix.net/menus/-Mxms08tbkO-7D5YMROX:inline-live-2--Mxms0NeM_tKduzOlPwQ-9699567a-46f0-4b97-a3f4-7b2edaabd6b5_%C3%A5%C2%BE%C2%9C%C3%A5%C2%BE%C2%89Menu-1.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/Index/R_%e9%a6%96%e9%a0%81.jpg",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/3_21101915514736605.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/S__43524241.jpg?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/chihai/chpark-2.png?t=858",
+        "https://ccklibrary.org.tw/WebUPD/zh_tw/vc/S__13050006.jpg?t=261"
+      ]
+    }
+  },
+  {
+    "AttractionName": "圓山大飯店 花園咖啡廳",
+    "Type": [
+      2,
+      3,
+      5,
+      8
+    ],
+    "Introduction": "花園咖啡廳位於一樓大廳左側，提供各式單點餐飲、精緻甜點、英式下午茶及咖啡飲品。餐廳裝潢以傳統的建築與當代藝術兼融合併，特別邀請國際知名藝術家率領專業花藝團隊，為花園咖啡廳打成造當代藝術新亮點。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區中山北路四段一號",
+    "Tel": "886-2-8868888",
+    "Email": "grand@grand-hotel.org",
+    "Elong": 121.52563261763162,
+    "Nlat": 25.076944918422658,
+    "OfficialSite": "https://www.grand-hotel.org/TW/official/restaurant-detail.aspx?gh=TP&serno=19",
+    "Facebook": "",
+    "OpenTime": "每日08:00~22:30",
+    "Images": {
+      "Src": [
+        "https://www.grand-hotel.org/fileupload/Restaurant_File/19_espvlhcfxs.jpg",
+        "https://www.grand-hotel.org/fileupload/Restaurant_File/19_qxsrasxhdh.jpg",
+        "https://www.grand-hotel.org/fileupload/Restaurant_File/19_ptrnvtorwj.jpg",
+        "https://www.grand-hotel.org/fileupload/History/TW/8.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "圓山河濱公園溜冰場",
+    "Type": [
+      1,
+      6,
+      7
+    ],
+    "Introduction": "公園位於中山橋上游至大直橋間(右岸)，腹地狹長面積不大約8.6公頃，自行車道兩旁植被茂盛，靜靜的開著小黃花，行走其中，有穿越綠色森林的感覺。這裡設置有簡單的體健設施及溜冰場，可以讓附近的居民有多一點的休憩空間。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區",
+    "Tel": "",
+    "Email": "grand@grand-hotel.org",
+    "Elong": 121.52717614722611,
+    "Nlat": 25.074644395726917,
+    "OfficialSite": "https://heo.gov.taipei/News_Content.aspx?n=E65DBD99C91AEAC4&sms=3A0FD6D3764BFBA7&s=32AD01DE379CE197",
+    "Facebook": "",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzMwL2NrZmlsZS80ZGE0Y2JkYS1lNjNhLTQ4ZjUtODczZi03ZmY3MmY5NmI2NTcuanBn&n=MjAg5ZyT5bGxLmpwZw%3d%3d&icon=.jpg",
+        "http://4.bp.blogspot.com/-Dni3lBaoQ7E/Vl05mF7hrUI/AAAAAAAAFaY/WYry7vLXSzg/s320/%25E4%25B8%25AD%25E5%25B1%25B1%25E6%25A9%258Bn.jpg",
+        "http://2.bp.blogspot.com/-ct2D88ZVyRg/Vl5YgjHbkpI/AAAAAAAAFa4/TywOuKPp9zM/s320/%25E5%25A5%2594%25E6%25B0%25B4%25E6%25B1%25A0.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "微風平台",
+    "Type": [
+      2,
+      3,
+      4,
+      7
+    ],
+    "Introduction": "圓山風景區是交通易達、安排一日遊的好去處，可以走劍潭山親山步道至老地方觀機平台，去年新設置的微風平台，可遠眺淡水河及遠方的觀音山。趁著新春連假，相約親朋好友來趟圓山強身樂活之旅，開啟一整年健康樂活好心情。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區中山北路四段1巷1弄No. 3號",
+    "Tel": "",
+    "Email": "",
+    "Elong": 121.52846598575641,
+    "Nlat": 25.08410544842676,
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "",
+    "Images": {
+      "Src": [
+        "https://obs.line-scdn.net/0hHf2ox4SlF0kPFgLLttNoHjdAGzg8cA1ALXBRKHkUQHF3OgBKY3NEKi1DGmUrdAJLL3JefXgTS3ByJgIWNA/w1200",
+        "https://img.ltn.com.tw/Upload/playing/page/2018/08/05/180805-10373-4-ygj7A.jpg",
+        "https://obs.line-scdn.net/0hkDN0eHZJNGtzSSHpyotLPEsfOBpALy5iUSd7DFNNPVwMZXNpGn1nCAIcOkcNKiE0U38sD1AeaQ8KLSA-Tw/w1200",
+        "https://obs.line-scdn.net/0h0Ay6u-KGb25ET3rs_YkQOXwZYx93KXVnZiEgCzMcYl1vYytsKCE8DTRJY0I5eC8xZH4mC2dHMFdoL384fQ/w1200",
+        "https://img.ltn.com.tw/Upload/playing/page/2018/08/05/180805-10373-3-Y3fvB.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "線形公園(劍潭)特色遊戲場",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "捷運線形公園(劍潭)遊戲場位於士林區通河街2巷旁捷運高架橋下方，設計上融入當地特有之龍舟文化元素，為當地及具特色之龍舟造型遊具，主要提供2-12歲兒童使用，讓到此遊玩的兒童體驗當地獨有的龍舟文化。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "111台北市士林區通河街2巷",
+    "Tel": "",
+    "Email": "",
+    "Elong": 121.52341594977003,
+    "Nlat": 25.079071278992835,
+    "OfficialSite": "https://parks.taipei/playground/content/m102.php?sid=863",
+    "Facebook": "",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MTA1NzQ5OS1mMTM2LTRmOTktODFiYy00NDhkZmRhZDNiZGEuanBn&n=5YWo5pmvLmpwZw%3d%3d&icon=.jpg",
+        "https://obs.line-scdn.net/0hPee4eqkfD0pYTRtIST1wHWAbAztrKxVDeiNAKX8YBXIgYU4bZylcKXseVGYlLhgZeH9CLnxMVnpyeUweYA/w1200",
+        "https://obs.line-scdn.net/0hcu1IRiHIPFoMMChYHUBDDTRmMCs_ViZTLlVzPyw0Z2khHHwKNgRvOXs5ZHZyV38MLF92Oyw0ZG12CXsIMw/w1200",
+        "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQ4L2NrZmlsZS80MzRiMTZiMC0zMjllLTRkYzItYmM4ZS1jODAwOGFkYTRlMjkuanBn&n=6b6N6Iif6YCg5Z6L6YGK5YW357WELmpwZw%3d%3d&icon=.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "顏水龍水牛圖馬賽克壁畫",
+    "Type": [
+      2,
+      5
+    ],
+    "Introduction": "位於圓山腳下的劍潭公園，佔地面積為6935平方公尺，為一處狹長型的公園，公園內綠意盎然、草木扶疏，園內最具特色的景觀便是擋土牆上的馬賽克壁畫「水牛圖」，是名畫家顏水龍先生的作品，作品中描繪著早期農業時候的台灣，忙碌的田園生活情形，這裡也是市民散步休憩的好去處。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Address": "台北市中山區",
+    "Tel": "",
+    "Email": "",
+    "Elong": 121.52468013685649,
+    "Nlat": 25.08011123875748,
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "",
+    "Images": {
+      "Src": [
+        "https://img.yamol.tw/file/5d0f63f60759b.jpg#s-1024,363",
+        "https://publicart.taipei/admincms/upload_file/works/20150409_094508.691.png",
+        "https://publicart.taipei/admincms/upload_file/works/20150409_094514.728.png",
+        "https://publicart.taipei/admincms/upload_file/works/20150409_095140.135.png",
+        "https://bisuttaiwan.files.wordpress.com/2021/07/e59c966_e5b7a5e6a5ade7a4bee69c83.jpg?w=1024"
+      ]
+    }
+  },
+  {
+    "AttractionName": "早與晨Brunch",
+    "Type": [
+      8
+    ],
+    "Introduction": "早與晨Brunch是一間位於台北市士林區的早午餐餐廳",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區通河街9號",
+    "Tel": "886-2-8888768",
+    "Email": "",
+    "Elong": 121.52468013685649,
+    "Nlat": 25.08011123875748,
+    "OfficialSite": "https://website--6404157071856062822137-brunchrestaurant.business.site/",
+    "Facebook": "",
+    "OpenTime": "週二休息，每日07:00 – 14:00",
+    "Images": {
+      "Src": [
+        "https://lh3.googleusercontent.com/p/AF1QipNqNJ2LYNFw9UA6-PijDvSVeAn3V1epWgrntxkB=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipNNmp5iqI919NwuqEVdfujo6sN5_A75jlhnP0sl=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipNUj7-Zp-wU9EmL3Jmo9xCV9ikCG5V3J0Kzc-eR=w960-h960-n-o-k-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipPgiBkQ1eEYHUlQnaLSYevmIlRVBiX50ULej5vr=w960-h960-n-o-k-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipOpPvcSeDwEAvzCFTLOr9Wi3eK5OHhwly6n-MXi=w960-h960-n-o-k-v1"
+      ]
+    }
+  },
+  {
+    "AttractionName": "ACME｜Cafe Bar & Restaurant 臺北表演藝術中心",
+    "Type": [
+      1,
+      3,
+      5,
+      8
+    ],
+    "Introduction": "完整的ACME早午餐體驗，從法式炒蛋到經典法式吐司，從日出到日落。可以選擇搭配義式濃縮，或是精選的自然葡萄酒，帶大家穿越地域隔閡，享受純正的歐式早午餐。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區劍潭路1號7樓",
+    "Tel": "886-2-66177575",
+    "Email": "hello@acmegroup.tw",
+    "Elong": 121.52429379760113,
+    "Nlat": 25.08541635138288,
+    "OfficialSite": "https://acmetaipei.com/pages/places",
+    "Facebook": "https://www.facebook.com/acmetaipei/?locale=zh_TW",
+    "OpenTime": "星期一休息,每日12:00~21:00",
+    "Images": {
+      "Src": [
+        "https://cdn.shopify.com/s/files/1/0549/1471/1701/t/4/assets/img_7626-1-1657004742916.jpg?v=1657004636",
+        "https://cdn.shopify.com/s/files/1/0549/1471/1701/t/4/assets/1173-1656571656723.jpg?v=1656571658",
+        "https://cdn.shopify.com/s/files/1/0549/1471/1701/t/4/assets/20220912acme-menu01-1663038127066.png?v=1663038129"
+      ]
+    }
+  },
+  {
+    "AttractionName": "國王沙爹 SATAY.TW",
+    "Type": [
+      8
+    ],
+    "Introduction": "主打正宗新加坡沙爹的人氣店。超過10種香料深層腌製而成，獨門調配的比例⁣⁣⁣，絕無僅有的特殊香味。國王沙爹的高品質在台灣已獲得多位高廚的認可，是許多高級飯店和餐廳的供應商，也在家樂福等的各大超市販售。 Popular fast-food outlet, known for authentic high-quality Singapore Satay, marinated with over 10 different oriental spices. Vouched for and procured by top chefs from luxury hotels and restaurants in Taiwan, and also available in most major hypermarkets including Carrefour.",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區大東路11號",
+    "Tel": "886-2-25326077",
+    "Email": "service@ccklibrary.org.tw",
+    "Elong": 121.52540940510767,
+    "Nlat": 25.08673829890028,
+    "OfficialSite": "https://www.instagram.com/satay.tw",
+    "Facebook": "https://www.facebook.com/%E5%9C%8B%E7%8E%8B%E6%B2%99%E7%88%B9-SATAYTW-%E5%8F%B0%E5%8C%97-%E5%A3%AB%E6%9E%97%E5%A4%9C%E5%B8%82-102636652227213/",
+    "OpenTime": "每日17: 00–23: 15",
+    "Images": {
+      "Src": [
+        "https://www.chickpt.com.tw/photos/20221023/1492103/1666506770.87551359573684.jpg",
+        "https://www.chickpt.com.tw/compassion_img?img=%2Fphotos%2F20230118%2F1492103%2F1674041775.4114579429161.jpg",
+        "https://www.chickpt.com.tw/compassion_img?img=%2Fphotos%2F20221023%2F1492103%2F1666506975.7633877244640.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "BOSS撞球運動館",
+    "Type": [
+      4,
+      7
+    ],
+    "Introduction": "BOSS撞球運動館是位於台北市士林區承德路四段52號B1樓的遊樂場店家,附有飛鏢,撞球,食物,飲料服務",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區承德路四段52號",
+    "Tel": "886-2-28855252",
+    "Email": "",
+    "Elong": 121.52253764334431,
+    "Nlat": 25.081409875830175,
+    "OfficialSite": "",
+    "Facebook": "https://www.facebook.com/profile.php?id=100066581975627&paipv=0&eav=Afa-H464VN3pEUxngulAtXAK1oC55Zuv19zaNBCSPvwows2_0CTAo1B2GhxBR6zwvQ8&_rdr",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://images.chinatimes.com/newsphoto/2019-07-13/656/20190713001160.jpg",
+        "http://images.1111.com.tw/oad/88/69382888_0.jpg?2023/03/04%2010:26:09",
+        "https://image.yes123.com.tw/enterprise_pict/p2/26/26605031_22013422185049_0.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "士林萌虎",
+    "Type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Introduction": "強勢凱瑞科技 Strangcarry 首發「士林萌虎」讓現場觀眾萌翻啦～ 強勢凱瑞科技有限公司 服務項目： LED硬體規劃、動畫設計 、廣告託播、互動式視覺傳達設計、CIS設計、SEO設計、廣告拍攝。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區大東路34號",
+    "Tel": "",
+    "Email": "",
+    "Elong": 121.52527204186794,
+    "Nlat": 25.089247249126377,
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "每日14:00-00:00",
+    "Images": {
+      "Src": [
+        "https://s.yimg.com/ny/api/res/1.2/bE5Dch31OSPeVjcPnmFQKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://media.zenfs.com/vi/lifetoutiao_news_333/eeb32ec79ef9dcb75700e59737dfe653",
+        "https://images.chinatimes.com/newsphoto/2022-10-08/1024/20221008001500.jpg",
+        "https://media.zenfs.com/zh-tw/setn.com.tw/11f66489fa8de95e498d46ce45195b49",
+        "https://www.niusnews.com/upload/imgs/default/202210_Jennie/1003tiger/IMG_9467.jpg",
+        "https://www.niusnews.com/upload/imgs/default/202210_Jennie/1003tiger/IMG_9468.jpg"
+      ]
+    }
+  },
+  {
+    "AttractionName": "愛烤愛對囉 士林店",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區文林路79號1樓",
+    "Tel": "886-2-28335655",
+    "Email": "https://www.facebook.com/profile.php?id=100064108836529",
+    "Elong": 121.52584639509091,
+    "Nlat": 25.08756237667189,
+    "OfficialSite": "https://www.ilovebbq.com.tw/",
+    "Facebook": "https://www.facebook.com/profile.php?id=100064108836529",
+    "OpenTime": "每日12:00-00:00",
+    "Images": {
+      "Src": [
+        "https://lh3.googleusercontent.com/p/AF1QipOTg_W68a5tFKiSA37dO1ts0pMFF252NjPVnBQo=s1360-w1360-h1020",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t39.30808-6/328518191_527583642832925_8770313335489985787_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=qZMvFjEWKHoAX8b2n3l&_nc_ht=scontent.frmq3-1.fna&oh=00_AfCgzK0C4sKbplBhUpfetnUBzm4xwgnNQ7jAHPSWzm4Q9Q&oe=6406FFC7",
+        "https://lh3.googleusercontent.com/p/AF1QipOXsnNX0kjFg1r8flVaYtFTxAXIjVuxoQInIiUc=s1360-w1360-h1020",
+        "https://scontent.frmq3-2.fna.fbcdn.net/v/t39.30808-6/334585621_777221767352885_7633294787750300831_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=vKQ9v2tsx2wAX91YkYo&_nc_ht=scontent.frmq3-2.fna&oh=00_AfDN6S_afUb-08quHmmu4o69WBvi1opHBRMXvZtpty3PUw&oe=64077F26",
+        "https://scontent.frmq3-2.fna.fbcdn.net/v/t39.30808-6/334676535_3435962959973938_3652465439271659683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=0O2qdJWARFoAX-UL0A_&_nc_ht=scontent.frmq3-2.fna&oh=00_AfAmlwqFNKnMn0PjW4FJcD-dI_BJLFR7hnnU9MzjpbYrFw&oe=6407918C"
+      ]
+    }
+  },
+  {
+    "AttractionName": "森SPA足體養生館 - 士林館",
+    "Type": [
+      3,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52639569418749,
+    "Nlat": 25.087715843950022
+  },
+  {
+    "AttractionName": "光隱 INROOM",
+    "Type": [
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52671188492795,
+    "Nlat": 25.08779093442855
+  },
+  {
+    "AttractionName": "士林放感情｜台北士林酒吧推薦調酒 網美必吃西式餐酒館 宵夜美食餐廳",
+    "Type": [
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5254101372901,
+    "Nlat": 25.092317816749183
+  },
+  {
+    "AttractionName": "柒息地串燒居酒屋士林店",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52664938252664,
+    "Nlat": 25.090259625783393
+  },
+  {
+    "AttractionName": "士林夜市深夜流氓熱炒",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5251624597298,
+    "Nlat": 25.08823433228258
+  },
+  {
+    "AttractionName": "大俠請留步",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52711442421474,
+    "Nlat": 25.089733695667185
+  },
+  {
+    "AttractionName": "noobtent 菜鳥營地",
+    "Type": [
+      4,
+      5,
+      7,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52535004663899,
+    "Nlat": 25.089810130676046
+  },
+  {
+    "AttractionName": "北藝中心 天狼星座",
+    "Type": [
+      1,
+      2,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5246120888771,
+    "Nlat": 25.08540721249731
+  },
+  {
+    "AttractionName": "VA VA VOOM",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52649065171063,
+    "Nlat": 25.079362544348918
+  },
+  {
+    "AttractionName": "安平街情人巷",
+    "Type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5251263833534,
+    "Nlat": 25.088477984153695
+  },
+  {
+    "AttractionName": "報恩寺",
+    "Type": [
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52622071501673,
+    "Nlat": 25.08512697578879
+  },
+  {
+    "AttractionName": "AN58西班牙創意料理",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52257325870839,
+    "Nlat": 25.080515636345577
+  },
+  {
+    "AttractionName": "老地方觀機平台",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5367852766072,
+    "Nlat": 25.090433761648878
+  },
+  {
+    "AttractionName": "玫瑰園 - 士林官邸",
+    "Type": [
+      2,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.53046037629163,
+    "Nlat": 25.092944461176465
+  },
+  {
+    "AttractionName": "劍潭福正宮",
+    "Type": [
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5245263455353,
+    "Nlat": 25.080478299463138
+  },
+  {
+    "AttractionName": "藍秋cafe",
+    "Type": [
+      8
+    ],
+    "Introduction": "有提供 餐點、甜點、生日蛋糕、鮮奶油蛋糕、飲品、自家烘培咖啡，沒有任何化學 人工添加物 沒有華麗的外表 只有實在的味道 用心體會所有食材最原始的味道 我們一直在遵循這個道路 食的安心 撫慰人心",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Address": "台北市士林區承德路四段10巷18號",
+    "Tel": "886-2-28857750",
+    "Email": "",
+    "Elong": 121.52102003475444,
+    "Nlat": 25.079634796937206,
+    "OfficialSite": "https://www.instagram.com/lan_qui_think/",
+    "Facebook": "https://www.facebook.com/zabusweet/?locale=zh_TW",
+    "OpenTime": "星期一、二、三、四(休)，每日11:30~17:30",
+    "Images": {
+      "Src": [
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t1.6435-9/176518510_1981936835287624_2952442251674095187_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=YWkwRImzlC0AX9FH6er&_nc_ht=scontent.frmq3-1.fna&oh=00_AfAx1ZP3UDcXGas7FfvE6t1y9_25ehhR__nb5WivLpQhFw&oe=642A548B",
+        "https://scontent.frmq3-2.fna.fbcdn.net/v/t1.6435-9/163437951_1957341477747160_1103789469884361720_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nQfh0_m9f9IAX9DcSjP&_nc_ht=scontent.frmq3-2.fna&oh=00_AfAsJ3o-Jn-2htkT5FA2VZy6t2vPpOuUqaIbqFWP4gP0kg&oe=642A5FBE",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t1.6435-9/165178615_1955821841232457_7024050770374899206_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WPrDkOmCCF4AX8RsgnN&_nc_ht=scontent.frmq3-1.fna&oh=00_AfCCiYAVtTMFqlTlbno9vYE0GNbflMLGCbfvvphahmzXUg&oe=642A4DC1",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t1.6435-9/122193789_1825484144266228_9130454111907258423_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=LnqGvDAj7GcAX8jFWG9&_nc_ht=scontent.frmq3-1.fna&oh=00_AfBjiLY7eYtHRhivj40nOfeugn61JiOKHDOPkcIfrP9UfA&oe=642A5389",
+        "https://scontent.frmq3-1.fna.fbcdn.net/v/t39.30808-6/329611320_889018619095513_3879392927234895703_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=96ABoz23sX0AX_C30IR&_nc_ht=scontent.frmq3-1.fna&oh=00_AfCIoQkBCXXCcZibV-Nj73tkz8soR4Ff7cNVR89cGdlJtw&oe=640740A6"
+      ]
+    }
+  },
+  {
+    "AttractionName": "劍潭肉圓王",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52025348582698,
+    "Nlat": 25.080503252886764
+  },
+  {
+    "AttractionName": "雙溪濕地公園",
+    "Type": [
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51301181778929,
+    "Nlat": 25.097358092755687
+  },
+  {
+    "AttractionName": "雙溪濕地公園 水中步道",
+    "Type": [
+      2,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51170698520875,
+    "Nlat": 25.096799060838368
+  },
+  {
+    "AttractionName": "士林教會聖經故事彩繪牆",
+    "Type": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52197621626054,
+    "Nlat": 25.094136679478392
+  },
+  {
+    "AttractionName": "美崙公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51738075359897,
+    "Nlat": 25.097257340721917
+  },
+  {
+    "AttractionName": "漫果子桌遊主題餐廳士林店",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52313845188768,
+    "Nlat": 25.094309317181484
+  },
+  {
+    "AttractionName": "小倉庫食研所",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52132280653052,
+    "Nlat": 25.09695448683647
+  },
+  {
+    "AttractionName": "INTRO",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51877627557936,
+    "Nlat": 25.09359157681605
+  },
+  {
+    "AttractionName": "埃及傳說",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52002029844743,
+    "Nlat": 25.097214943954118
+  },
+  {
+    "AttractionName": "川藤島",
+    "Type": [
+      2,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5102044711493,
+    "Nlat": 25.09562433209463
+  },
+  {
+    "AttractionName": "百齡河濱公園",
+    "Type": [
+      2,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51515763572115,
+    "Nlat": 25.08745107082616
+  },
+  {
+    "AttractionName": "漸層蘭咖啡JCL Coffee & Cake",
+    "Type": [
+      5,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51531705338924,
+    "Nlat": 25.091034162801456
+  },
+  {
+    "AttractionName": "躺著吃手工法式甜點",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51515489554835,
+    "Nlat": 25.09100628258373
+  },
+  {
+    "AttractionName": "三腳渡狗狗活動區",
+    "Type": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51672324309213,
+    "Nlat": 25.08153285061891
+  },
+  {
+    "AttractionName": "歡樂便所主題餐廳",
+    "Type": [
+      2,
+      6,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52682223165358,
+    "Nlat": 25.08957786605046
+  },
+  {
+    "AttractionName": "阿公宜蘭三星清冰",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52603517643554,
+    "Nlat": 25.097725055114868
+  },
+  {
+    "AttractionName": "S. Design Studio-美甲/無痛清粉刺",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52610424331526,
+    "Nlat": 25.097625467307466
+  },
+  {
+    "AttractionName": "AHM GALLERY.IARTS 繪畫空間(成人/親子)",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52520736678719,
+    "Nlat": 25.097365845456885
+  },
+  {
+    "AttractionName": "Cristina Candle/香氛蠟燭/花禮/教學/訂製/手作教室",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52531398459183,
+    "Nlat": 25.097357344036883
+  },
+  {
+    "AttractionName": "筋勁工坊",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52533007784537,
+    "Nlat": 25.097280831230385
+  },
+  {
+    "AttractionName": "士林捷運商圈",
+    "Type": [
+      1,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52556899998099,
+    "Nlat": 25.09540958549208
+  },
+  {
+    "AttractionName": "天主教堂",
+    "Type": [
+      1,
+      2,
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52438711367435,
+    "Nlat": 25.09536484534396
+  },
+  {
+    "AttractionName": "福志公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.53430858445095,
+    "Nlat": 25.09923503497681
+  },
+  {
+    "AttractionName": "廚窗港點 士林官邸店",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.53281618427212,
+    "Nlat": 25.09668785208423
+  },
+  {
+    "AttractionName": "隱家拉麵",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52715360701399,
+    "Nlat": 25.093199578022553
+  },
+  {
+    "AttractionName": "Kinjo草山金工-官邸總店",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.52827094540523,
+    "Nlat": 25.093533340048207
+  },
+  {
+    "AttractionName": "福林國小游泳池",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.53003897575431,
+    "Nlat": 25.098642648489392
+  },
+  {
+    "AttractionName": "至善公園",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.53755056835337,
+    "Nlat": 25.098579638677894
+  },
+  {
+    "AttractionName": "妙侊寺",
+    "Type": [
+      2,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.53960140556255,
+    "Nlat": 25.095412784833766
+  },
+  {
+    "AttractionName": "沒什麼療不起§ 希塔療癒師吳婕睿",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.5422819998941,
+    "Nlat": 25.095898567956386
+  },
+  {
+    "AttractionName": "東吳大學",
+    "Type": [
+      1,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.54540670253519,
+    "Nlat": 25.09453892907798
+  },
+  {
+    "AttractionName": "大樹下美食(東吳大學)",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.54417374142072,
+    "Nlat": 25.09542695017338
+  },
+  {
+    "AttractionName": "劍南山夜景",
+    "Type": [
+      2,
+      3,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5498534551889,
+    "Nlat": 25.089903619389784
+  },
+  {
+    "AttractionName": "實踐大學 臺北校區",
+    "Type": [
+      1,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54520455064294,
+    "Nlat": 25.08307178898814
+  },
+  {
+    "AttractionName": "Howbon Floral Design花藝設計工作室",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54518945468719,
+    "Nlat": 25.081611162996865
+  },
+  {
+    "AttractionName": "花年國際花坊",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54609884890765,
+    "Nlat": 25.081401320452166
+  },
+  {
+    "AttractionName": "大直樂融畫室",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.546239293353,
+    "Nlat": 25.08196270553203
+  },
+  {
+    "AttractionName": "Morningcat Flower 花藝",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54565416586617,
+    "Nlat": 25.082414771788052
+  },
+  {
+    "AttractionName": "L'atelier d' À ma façon 焙窩手工甜點",
+    "Type": [
+      8
+    ],
+    "Introduction": "一間在巷弄中的甜點廚房，提供每日限量製作的手工甜點。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5479577460684,
+    "Nlat": 25.084077780608425
+  },
+  {
+    "AttractionName": "Meihouse Art Studio 梅也家畫室",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 121.54905003926665,
+    "Nlat": 25.08496107055332
+  },
+  {
+    "AttractionName": "自強公園",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5476103470038,
+    "Nlat": 25.086329666408933
+  },
+  {
+    "AttractionName": "北安休閒運動中心",
+    "Type": [
+      3,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54248722818292,
+    "Nlat": 25.079210293996482
+  },
+  {
+    "AttractionName": "大直市場",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54528049404463,
+    "Nlat": 25.078609444700692
+  },
+  {
+    "AttractionName": "富康足體養生館|大直",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54574733332518,
+    "Nlat": 25.07880732320202
+  },
+  {
+    "AttractionName": "安可水族館Guppy",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "(純品系孔雀魚培育所) aquarium 各式觀賞魚. 鬥魚. 烏龜. 陸龜. 燈魚. 鼠魚.角蛙",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54570346728939,
+    "Nlat": 25.078897739970277
+  },
+  {
+    "AttractionName": "台北都更解壓說概念館",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54706628977698,
+    "Nlat": 25.0794093427141
+  },
+  {
+    "AttractionName": "永直公園",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55055503653779,
+    "Nlat": 25.081389380542465
+  },
+  {
+    "AttractionName": "EnterSpace 密室逃脫",
+    "Type": [
+      5,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 121.55093045345691,
+    "Nlat": 25.080181057622053
+  },
+  {
+    "AttractionName": "Art Space 563",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55182636835899,
+    "Nlat": 25.079376488487675
+  },
+  {
+    "AttractionName": "劍南蝶園",
+    "Type": [
+      2,
+      3,
+      7,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55374280631727,
+    "Nlat": 25.087429419697298
+  },
+  {
+    "AttractionName": "劍南蝶園觀景台",
+    "Type": [
+      1,
+      2,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55481166935722,
+    "Nlat": 25.08671755405597
+  },
+  {
+    "AttractionName": "大直愛樂旺四面佛",
+    "Type": [
+      2,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55416348252314,
+    "Nlat": 25.086251117604803
+  },
+  {
+    "AttractionName": "美麗新大直皇家影城",
+    "Type": [
+      3,
+      4,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55372642763187,
+    "Nlat": 25.084982470823128
+  },
+  {
+    "AttractionName": "MissGAME密室逃脫-大直館",
+    "Type": [
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5471339849689,
+    "Nlat": 25.080995279825643
+  },
+  {
+    "AttractionName": "培英公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5449810504216,
+    "Nlat": 25.08212165849793
+  },
+  {
+    "AttractionName": "明水公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54834725520209,
+    "Nlat": 25.079163717353843
+  },
+  {
+    "AttractionName": "i-SPORTS乒乓客桌球教室",
+    "Type": [
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5504613731434,
+    "Nlat": 25.080479575874364
+  },
+  {
+    "AttractionName": "ATT e Life",
+    "Type": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "以「美麗新女人」前所未有的概念打造創新型態服務性商場，全台首創結合「玩樂學習」,「互動智能科技」,「戶外休閒」及「時尚美食」四大元素。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55546926664017,
+    "Nlat": 25.081097393625175
+  },
+  {
+    "AttractionName": "蓬萊高爾夫練習場",
+    "Type": [
+      3,
+      4,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55697450386799,
+    "Nlat": 25.08177550816851
+  },
+  {
+    "AttractionName": "月讀女僕咖啡大直ATT店",
+    "Type": [
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55553167672167,
+    "Nlat": 25.081501500000016
+  },
+  {
+    "AttractionName": "亞洲藝術中心 Asia Art Center",
+    "Type": [
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55513704238348,
+    "Nlat": 25.082489162523352
+  },
+  {
+    "AttractionName": "中427公園",
+    "Type": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "Introduction": "有旋轉木馬那個",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55599058462978,
+    "Nlat": 25.08040636052452
+  },
+  {
+    "AttractionName": "美堤極限公園",
+    "Type": [
+      1,
+      2,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55481568132095,
+    "Nlat": 25.07654018032259
+  },
+  {
+    "AttractionName": "M Club",
+    "Type": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55570162564729,
+    "Nlat": 25.076260691640837
+  },
+  {
+    "AttractionName": "上塔悠公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.55398593705394,
+    "Nlat": 25.077299936858587
+  },
+  {
+    "AttractionName": "中430公園",
+    "Type": [
+      6
+    ],
+    "Introduction": "不大的公園",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5534866607524,
+    "Nlat": 25.078454952334877
+  },
+  {
+    "AttractionName": "",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5600418491682,
+    "Nlat": 25.079635395736037
+  },
+  {
+    "AttractionName": "下塔悠鎮安宮蕭府王爺",
+    "Type": [
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.56485428658686,
+    "Nlat": 25.0771921340124
+  },
+  {
+    "AttractionName": "BRICK PAPA 內湖展示空間",
+    "Type": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.56511224118508,
+    "Nlat": 25.07963296957226
+  },
+  {
+    "AttractionName": "洲子一號公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.56451608027925,
+    "Nlat": 25.079865456002146
+  },
+  {
+    "AttractionName": "台北玻璃金字塔",
+    "Type": [
+      1,
+      2,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5246956188022,
+    "Nlat": 25.0703922904028
+  },
+  {
+    "AttractionName": "台北長春國賓影城",
+    "Type": [
+      3,
+      4,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53425794718764,
+    "Nlat": 25.054581631767714
+  },
+  {
+    "AttractionName": "飛機巷",
+    "Type": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53839319774806,
+    "Nlat": 25.07004938554476
+  },
+  {
+    "AttractionName": "新潮釣蝦美食廣場",
+    "Type": [
+      4,
+      7,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53597224491075,
+    "Nlat": 25.06851570627402
+  },
+  {
+    "AttractionName": "福德涼麵",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.54115473662186,
+    "Nlat": 25.055985536358964
+  },
+  {
+    "AttractionName": "松江市場",
+    "Type": [
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5321975733666,
+    "Nlat": 25.060218760292656
+  },
+  {
+    "AttractionName": "全佳樂釣蝦場",
+    "Type": [
+      4,
+      6,
+      7,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53069148713202,
+    "Nlat": 25.06030914936813
+  },
+  {
+    "AttractionName": "曾家豆漿",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52888719244302,
+    "Nlat": 25.06043257454445
+  },
+  {
+    "AttractionName": "貓藝家Cat.Art.Home",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "請記得預約",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5284546210502,
+    "Nlat": 25.059870764524828
+  },
+  {
+    "AttractionName": "女王漢堡",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52348331778232,
+    "Nlat": 25.068311947475312
+  },
+  {
+    "AttractionName": "錢櫃 台北松江店",
+    "Type": [
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53333051458345,
+    "Nlat": 25.05692782980181
+  },
+  {
+    "AttractionName": "Relax 33莊園【五感按摩】",
+    "Type": [
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52230016391658,
+    "Nlat": 25.052405436357613
+  },
+  {
+    "AttractionName": "Game Square 遊戲平方 | 桌遊中山店",
+    "Type": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52311374207483,
+    "Nlat": 25.05165721488273
+  },
+  {
+    "AttractionName": "桌遊天空城",
+    "Type": [
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52558391192086,
+    "Nlat": 25.048777815803593
+  },
+  {
+    "AttractionName": "不老客家傳統麻糬",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53336568354808,
+    "Nlat": 25.061013876095675
+  },
+  {
+    "AttractionName": "黑岩古早味黑砂糖剉冰 錦州店",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5314585441572,
+    "Nlat": 25.06037501897216
+  },
+  {
+    "AttractionName": "金稻子餐廳 酸菜白肉鍋",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "XX區",
+    "Elong": 121.53036074736268,
+    "Nlat": 25.059273288291752
+  },
+  {
+    "AttractionName": "idu 原住民小吃部",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52923135129905,
+    "Nlat": 25.061983373186944
+  },
+  {
+    "AttractionName": "維傑 印度餐廳",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5440675360758,
+    "Nlat": 25.063410824023567
+  },
+  {
+    "AttractionName": "九點零一分韓式早午餐",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53391474754235,
+    "Nlat": 25.06412620367712
+  },
+  {
+    "AttractionName": "捲餅咬鹿",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53833122868747,
+    "Nlat": 25.060301706431815
+  },
+  {
+    "AttractionName": "CEO1950 總裁藝文空間",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52651605186843,
+    "Nlat": 25.06569450862078
+  },
+  {
+    "AttractionName": "路邊烤肉wildbbq 中山",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52322963610908,
+    "Nlat": 25.063620334205414
+  },
+  {
+    "AttractionName": "SecretBistro秘密小酒館",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52912432176387,
+    "Nlat": 25.064089853003093
+  },
+  {
+    "AttractionName": "中山藝文廊",
+    "Type": [
+      1,
+      2,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52039734187228,
+    "Nlat": 25.05211874303032
+  },
+  {
+    "AttractionName": "中山地下街",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52010771507507,
+    "Nlat": 25.050297134617153
+  },
+  {
+    "AttractionName": "RFD 運動冒險空間",
+    "Type": [
+      5,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53199232251976,
+    "Nlat": 25.071056149095163
+  },
+  {
+    "AttractionName": "羊毛與花 ‧ 光點",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52219622272455,
+    "Nlat": 25.05325272912435
+  },
+  {
+    "AttractionName": "時差 Jetlag",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52893328246036,
+    "Nlat": 25.055771134464322
+  },
+  {
+    "AttractionName": "January Couple",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.53210995357657,
+    "Nlat": 25.057804247346155
+  },
+  {
+    "AttractionName": "臺北市中山運動中心",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52132068661629,
+    "Nlat": 25.05483659174167
+  },
+  {
+    "AttractionName": "The fluffy shadow",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.52055061345561,
+    "Nlat": 25.0552816908631
+  },
+  {
+    "AttractionName": "納豆劇場Nadou Theatre",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同",
+    "Elong": 121.50898737099983,
+    "Nlat": 25.05563579645332
+  },
+  {
+    "AttractionName": "樹德公園",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同",
+    "Elong": 121.51629905470783,
+    "Nlat": 25.066886681225164
+  },
+  {
+    "AttractionName": "敦煌疏散門",
+    "Type": [
+      1,
+      2
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50845178333401,
+    "Nlat": 25.07655452656012
+  },
+  {
+    "AttractionName": "冷氣室外機奇觀",
+    "Type": [
+      1,
+      2
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.5198379028432,
+    "Nlat": 25.057880902790252
+  },
+  {
+    "AttractionName": "星橋綠坡",
+    "Type": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.52063023295945,
+    "Nlat": 25.056864649369558
+  },
+  {
+    "AttractionName": "世界美食總匯",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.5126744065472,
+    "Nlat": 25.05826743391314
+  },
+  {
+    "AttractionName": "花日紙",
+    "Type": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50876792375931,
+    "Nlat": 25.060925829293488
+  },
+  {
+    "AttractionName": "Minim Photographic Studio + Gallery 明凝攝影工作室•藝廊",
+    "Type": [
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50901379137947,
+    "Nlat": 25.06092875983451
+  },
+  {
+    "AttractionName": "純純電影音樂咖啡/講古故事館",
+    "Type": [
+      3,
+      5,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50938365888081,
+    "Nlat": 25.061086955138546
+  },
+  {
+    "AttractionName": "六號吉拿棒迪化店",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50943380293484,
+    "Nlat": 25.060722102710745
+  },
+  {
+    "AttractionName": "double 8 岩究所 攀岩 健身 裝備",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50935870205845,
+    "Nlat": 25.06073463672834
+  },
+  {
+    "AttractionName": "荒宅探險/夜間百年古宅體驗",
+    "Type": [
+      2,
+      5,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50919986250138,
+    "Nlat": 25.062994118268776
+  },
+  {
+    "AttractionName": "十四水門阿宏記憶館（黑膠體驗館）",
+    "Type": [
+      2,
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.50981668220899,
+    "Nlat": 25.06294326652995
+  },
+  {
+    "AttractionName": "洪瑞珍三明治 重慶店",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51352055776005,
+    "Nlat": 25.066401479503284
+  },
+  {
+    "AttractionName": "百和會館",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51397832723947,
+    "Nlat": 25.066974678489423
+  },
+  {
+    "AttractionName": "薰衣草花坊",
+    "Type": [
+      3,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.5139972429199,
+    "Nlat": 25.06913762003457
+  },
+  {
+    "AttractionName": "水手兩棲爬蟲•異寵-台北店",
+    "Type": [
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51354131852412,
+    "Nlat": 25.071657470350026
+  },
+  {
+    "AttractionName": "百齡左岸河濱公園",
+    "Type": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.512709966786,
+    "Nlat": 25.087499896584575
+  },
+  {
+    "AttractionName": "海光公園",
+    "Type": [
+      1,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50772052508458,
+    "Nlat": 25.082364663939316
+  },
+  {
+    "AttractionName": "金花宅甜點（花宅）",
+    "Type": [
+      3,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50856679577804,
+    "Nlat": 25.0844790258092
+  },
+  {
+    "AttractionName": "百齡碼頭",
+    "Type": [
+      1,
+      2,
+      3
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "大同區",
+    "Elong": 121.51315942549304,
+    "Nlat": 25.087215470966584
+  },
+  {
+    "AttractionName": "百齡左岸溜冰場（社子岸）",
+    "Type": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51314104349262,
+    "Nlat": 25.085425807770886
+  },
+  {
+    "AttractionName": "KUI酷愛生存遊戲專賣-台北重慶店",
+    "Type": [
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "社正公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.51042520165561,
+    "Nlat": 25.087775116874464
+  },
+  {
+    "AttractionName": "社子夜市",
+    "Type": [
+      1,
+      4
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50944131731654,
+    "Nlat": 25.087763920039027
+  },
+  {
+    "AttractionName": "社子公園",
+    "Type": [
+      1,
+      3,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.50618661676779,
+    "Nlat": 25.09119057880766
+  },
+  {
+    "AttractionName": "台北花卉村",
+    "Type": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.49774433657618,
+    "Nlat": 25.09466970078984
+  },
+  {
+    "AttractionName": "小學堂漂移 卡丁車士林館",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "士林區",
+    "Elong": 121.49871423742887,
+    "Nlat": 25.09527794868373
+  },
+  {
+    "AttractionName": "關渡美術館",
+    "Type": [
+      1,
+      2,
+      5
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.47182861676968,
+    "Nlat": 25.133219687144994
+  },
+  {
+    "AttractionName": "捷運北投會館逃生體驗營",
+    "Type": [
+      6,
+      7
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.48406991526822,
+    "Nlat": 25.135819228553004
+  },
+  {
+    "AttractionName": "草山夜未眠",
+    "Type": [
+      4,
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.53551813631213,
+    "Nlat": 25.133956344393496
+  },
+  {
+    "AttractionName": "BRICK YARD 33 1/3美軍俱樂部",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.54315459650859,
+    "Nlat": 25.135407300352572
+  },
+  {
+    "AttractionName": "四季長廊觀景台",
+    "Type": [
+      "城市走走1,拍照聖地2,放鬆療癒3,夜間首選4,文藝青年5,親子互動6,冒險活潑7,餐廳8",
+      1
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 123.00,
+    "Nlat": 25.00
+  },
+  {
+    "AttractionName": "金唯一桶仔雞",
+    "Type": [
+      8
+    ],
+    "Introduction": "",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "北投區",
+    "Elong": 121.50357063077332,
+    "Nlat": 25.117296300330068
+  }
+]
