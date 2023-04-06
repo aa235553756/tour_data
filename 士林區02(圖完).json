@@ -73,7 +73,7 @@
     "Images": {
       "Src": [
         "https://s.yimg.com/ny/api/res/1.2/bE5Dch31OSPeVjcPnmFQKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://media.zenfs.com/vi/lifetoutiao_news_333/eeb32ec79ef9dcb75700e59737dfe653",
-        "https://images.chinatimes.com/newsphoto/2022-10-08/1024/20221008001500.jpg",
+        "https://images.chinatimes.com/newsphoto/2022-10-08/1024/20221008001500.jpg"
       ]
     }
   },
@@ -209,13 +209,24 @@
       4,
       8
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "位於台北士林夜市的一間熱炒攤，經常有排隊人潮",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.5251624597298,
-    "Nlat": 25.08823433228258
+    "Nlat": 25.08823433228258,
+    "Address": "台北市士林區大東路16號",
+    "Tel": "",
+    "Email": "",
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "星期二休息，每天01:00–04:30",
+    "Images": {
+      "Src": [
+        "https://live.staticflickr.com/65535/50226023376_cfe5aa2ab9_b.jpg",
+        "https://live.staticflickr.com/65535/50226023446_65f48992a9_b.jpg"
+      ]
+    }
   },
   {
     "AttractionName": "大俠請留步",
@@ -223,29 +234,49 @@
       4,
       8
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "大俠把台灣小吃跟茶酒元素融合成「台式餐酒」新概念，讓更多人認識大俠理念，推廣台餐茶酒文化，也可以帶動士林新的年輕活力跟流行文化發展，因為華流才是最屌的🤘",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.52711442421474,
-    "Nlat": 25.089733695667185
+    "Nlat": 25.089733695667185,
+    "Address": "台北市士林區文林路188號",
+    "Tel": "886-2-28835268",
+    "Email": "swordmangroup@gmail.com",
+    "OfficialSite": "",
+    "Facebook": "https://www.facebook.com/swordman.tw/",
+    "OpenTime": "每天17:30–00:00",
+    "Images": {
+      "Src": [
+        "https://lh3.googleusercontent.com/p/AF1QipNOOpecYnS6FLbaBGARvKvBZdokeBnc_76O4g3s=s1360-w1360-h1020",
+        "https://lh3.googleusercontent.com/p/AF1QipPX7RzSRGFi65YZMIr3G8zE91iJsKaHVelagLgl=s1360-w1360-h1020"
+      ]
+    }
   },
   {
     "AttractionName": "noobtent 菜鳥營地",
     "Type": [
-      4,
-      5,
-      7,
-      8
+      4
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "位於士林區大東路的一家酒吧，具有露營車、營地元素，氛圍嘉",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.52535004663899,
-    "Nlat": 25.089810130676046
+    "Nlat": 25.089810130676046,
+    "Address": "台北市士林區大東路55號",
+    "Tel": "886916534906",
+    "Email": "",
+    "OfficialSite": "https://www.instagram.com/noobtent/",
+    "Facebook": "https://www.facebook.com/profile.php?id=100083080244433",
+    "OpenTime": "每天17:00-01:00",
+    "Images": {
+      "Src": [
+        "https://scontent.fkhh4-1.fna.fbcdn.net/v/t39.30808-6/276176132_110497154944678_990254294768140539_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=3yVe1cfSP04AX8jdnN2&_nc_ht=scontent.fkhh4-1.fna&oh=00_AfCEzo-e18stvCRQBmTz-jLQkkuKZFRwyA6FcOloCQFeuQ&oe=643363B7",
+        "https://scontent.fkhh4-1.fna.fbcdn.net/v/t39.30808-6/277560699_109957084998685_5595505104246401673_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a26aad&_nc_ohc=cnvxt5zNloIAX8Z4OGO&_nc_ht=scontent.fkhh4-1.fna&oh=00_AfDNANnsrsPU6jOO6WneRYW45kOvCbIHtDuBYs0zaEX4Rw&oe=643205C6",
+        "https://scontent.fkhh4-1.fna.fbcdn.net/v/t39.30808-6/277569441_112306478097079_8834665607227592391_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a26aad&_nc_ohc=jJSps9UhGRUAX-e9oWd&_nc_ht=scontent.fkhh4-1.fna&oh=00_AfDKcms16sDlIZjLrP2ALmQS4JnIGIX84FtCYCllewKD6A&oe=64323630"
+      ]
+    }
   },
   {
     "AttractionName": "北藝中心 天狼星座",
@@ -254,13 +285,24 @@
       2,
       4
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "「臺北表演藝術中心」曾獲選2021年《時代雜誌》全球最佳百大景點，搶眼的銀色巨球",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.5246120888771,
-    "Nlat": 25.08540721249731
+    "Nlat": 25.08540721249731,
+    "Address": "台北市士林區基河路21號",
+    "Tel": "",
+    "Email": "",
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "24 小時營業",
+    "Images": {
+      "Src": [
+        "https://backstage.tpac-taipei.org/storage/uploads/event/images/020c5015e2cfb30f5d69dc1cb646b3f8.jpg",
+        "https://backstage.tpac-taipei.org/storage/uploads/post/6164cb80b94076eab3aac2cb15e0f7f4.jpg"
+      ]
+    }
   },
   {
     "AttractionName": "VA VA VOOM",
@@ -268,16 +310,28 @@
       1,
       2,
       3,
-      5,
-      8
+      5
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "台灣最夯最齊全古裝租借、寫真、體驗，全台古蹟聯名合作：旗袍、韓服、浴衣、花魁、漢服、龍鳳袍、格格、唐裝等各大電視台、藝人、主播指定最愛",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.52649065171063,
-    "Nlat": 25.079362544348918
+    "Nlat": 25.079362544348918,
+    "Address": "台北市中山區中山北路四段一號",
+    "Tel": "+88628862828",
+    "Email": "vavavoomtaipei@gmail.com",
+    "OfficialSite": "https://www.vavavoom.com.tw/",
+    "Facebook": "https://www.facebook.com/vavavoomtaipei/?ref=page_internal&locale=zh_TW",
+    "OpenTime": "每日10:00-19:00",
+    "Images": {
+      "Src": [
+        "https://lh3.googleusercontent.com/p/AF1QipOi5d58t_25YqAWxR4yt1cODFja7d28vf8Ojkx1=s1360-w1360-h1020",
+        "https://lh3.googleusercontent.com/p/AF1QipP3IoRmVFP9i48lUVBeiQfEA1KmJQOSsWd-q-EY=s1360-w1360-h1020",
+        "https://lh3.googleusercontent.com/p/AF1QipN5iWZqJEqfo7Uyrwj8niXkkKrBDuKZPA6SzO0_=s1360-w1360-h1020",
+        "https://lh3.googleusercontent.com/p/AF1QipNtshmKRds2lBfieNZ0FBTt_tgPbeRM7f7LcFOh=s1360-w1360-h1020"
+      ]
+    }
   },
   {
     "AttractionName": "安平街情人巷",
@@ -287,39 +341,74 @@
       3,
       4
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "為活絡安平街及士林夜市商圈商機，臺北市商業處於110年12月4日至12月19日推出「士林饗樂購 愛戀安平街」系列活動，於安平街掛設情人燈飾妝點，並結合臺灣多元藝術空間青年發展聯合會的城市記號CITYMARX塗鴉團隊在安平街共創「安平街情人塗鴉牆」打卡景點",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.5251263833534,
-    "Nlat": 25.088477984153695
+    "Nlat": 25.088477984153695,
+    "Address": "台北市士林區安平街",
+    "Tel": "",
+    "Email": "",
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://www.travel.taipei/image/223344/?r=1638756330240",
+        "https://www.travel.taipei/image/223346/?r=1638756318593",
+        "https://www.travel.taipei/content/images/articles/223345/1024x768_articles-image-a7ifedlzbeu-uvgcwqfyrw.jpg"
+      ]
+    }
   },
   {
     "AttractionName": "報恩寺",
     "Type": [
       6
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "報恩寺位於台灣台北市中山北路，為主祀釋迦牟尼之佛教廟宇。該建物興建於1922年，原名報恩堂，屬於臨濟宗妙心寺派，今為位於台北士林區之仿古廟宇建築。另外，該廟宇的組織型態為管理人制，祭典日期則是每年農曆之四月初八。",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.52622071501673,
-    "Nlat": 25.08512697578879
+    "Nlat": 25.08512697578879,
+    "Address": "台北市士林區中山北路五段102號",
+    "Tel": "",
+    "Email": "",
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "每日08:00-16-:00",
+    "Images": {
+      "Src": [
+        "https://www.temple01.com/_photo/tpl/s_825991b_12402.jpg",
+        "https://temple.onepg.com.tw/assets/img/temple/176.webp"
+      ]
+    }
   },
   {
     "AttractionName": "AN58西班牙創意料理",
     "Type": [
       8
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "位於捷運淡水信義線[劍潭站]2號出口 循著捷運的肩膀,穿過林蔭小徑 就能看到的西班牙創意料理,熱誠歡迎您的光臨",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.52257325870839,
-    "Nlat": 25.080515636345577
+    "Nlat": 25.080515636345577,
+    "Address": "台北市士林區承德路4段29號",
+    "Tel": "886-2-2885-1029",
+    "Email": "anhome58@gmail.com",
+    "OfficialSite": "https://www.an58.com.tw/",
+    "Facebook": "https://www.facebook.com/an58tapas/",
+    "OpenTime": "每日11:30–14:30, 17:30–21:30",
+    "Images": {
+      "Src": [
+        "https://lh3.googleusercontent.com/p/AF1QipN4XhmSPJBuhQbarKiFKwzgMeWweMHAwMN8vtp9=s1360-w1360-h1020",
+        "https://scontent.fkhh4-2.fna.fbcdn.net/v/t39.30808-6/337381080_169349255973433_4541277084088947637_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=dbbaSp2f4R4AX99n3yv&_nc_ht=scontent.fkhh4-2.fna&oh=00_AfAI0b0wVzL_h0Gw4y85z_m0joiDc6dkjc9-VCbs9LD18A&oe=6432D838",
+        "https://lh3.googleusercontent.com/p/AF1QipM4dWurMZSkkpyMavHtXrSE2st5JKumokVnanlz=s1360-w1360-h1020"
+      ]
+    }
   },
   {
     "AttractionName": "老地方觀機平台",
@@ -327,13 +416,24 @@
       6,
       7
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "這個位於山頂的平台可經由林蔭步道抵達，可遠眺城市、機場和台北 101 大樓。",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.5367852766072,
-    "Nlat": 25.090433761648878
+    "Nlat": 25.090433761648878,
+    "Address": "台北市中山區通北街165巷劍潭山步道",
+    "Tel": "",
+    "Email": "",
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "24小時營業",
+    "Images": {
+      "Src": [
+        "https://pearrr-tw.com/wp-content/uploads/2021/01/2021110-_2_210113_30-1024x768.jpg",
+        "https://pearrr-tw.com/wp-content/uploads/2021/01/2021110-_2_210113_16-1024x768.jpg"
+      ]
+    }
   },
   {
     "AttractionName": "玫瑰園 - 士林官邸",
@@ -343,25 +443,26 @@
       6,
       7
     ],
-    "Introduction": "",
-    ----
+    "Introduction": "士林官邸有精緻的庭園造景設計，蟲鳴鳥叫、景色秀麗，是休閒遊憩的絕佳場所。當年因為緊鄰著中山北路，佔據極佳的地理位置，可快速直達總統府，加上後有福山做為倚靠，優越的地勢，所以成為蔣故總統官邸。",
     "OpenStatus": "1",
     "City": "臺北市",
     "Distric": "士林區",
     "Elong": 121.53046037629163,
-    "Nlat": 25.092944461176465
-  },
-  {
-    "AttractionName": "劍潭福正宮",
-    "Type": [
-      6
-    ],
-    "Introduction": "",
-    ----
-    "OpenStatus": "1",
-    "City": "臺北市",
-    "Distric": "士林區",
-    "Elong": 121.5245263455353,
-    "Nlat": 25.080478299463138
+    "Nlat": 25.092944461176465,
+    "Address": "台北市士林區福林路60號",
+    "Tel": "886-2-2881-2512",
+    "Email": "",
+    "OfficialSite": "https://www.travel.taipei/zh-tw/attraction/details/29",
+    "Facebook": "https://www.facebook.com/2016chshow/?locale=zh_TW",
+    "OpenTime": "每日08:00-18:00",
+    "Images": {
+      "Src": [
+        "https://www.travel.taipei/content/images/attractions/221278/1024x768_attractions-image-p60m46yktekcytblocivrg.jpg",
+        "https://www.travel.taipei/content/images/attractions/221287/1024x768_attractions-image-aacb63f9meqdvkusv2xijg.jpg",
+        "https://www.travel.taipei/content/images/attractions/221279/1024x768_attractions-image-uz-wgjgcmesd582uqltwjq.jpg",
+        "https://www.travel.taipei/content/images/attractions/221281/1024x768_attractions-image-ii1fbwos0kyvqxw2gzh01w.jpg",
+        "https://www.travel.taipei/content/images/attractions/221282/1024x768_attractions-image-n1wp6dta70gs18pqcfnhlq.jpg"
+      ]
+    }
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "AttractionName": "劍潭福正宮",
+    "Type": [
+      6
+    ],
+    "Introduction": "劍潭福正宮，位於台灣台北市中山區中山北路四段，為主祀福德正神之道教廟宇。該廟宇興建於清朝嘉慶年間，為傳統建築廟宇。該廟宇的組織型態為管理人制，祭典日期則是每年農曆之八月十五。",
+    "OpenStatus": "1",
+    "City": "臺北市",
+    "Distric": "中山區",
+    "Elong": 121.5245263455353,
+    "Nlat": 25.080478299463138,
+    "Address": "台北市中山區中山北路四段67號1樓",
+    "Tel": "",
+    "Email": "",
+    "OfficialSite": "",
+    "Facebook": "",
+    "OpenTime": "每天06:00–18:00",
+    "Images": {
+      "Src": [
+        "https://www.temple01.com/_photo/tpl/s_19f94b4_12414.jpg",
+        "https://temple.onepg.com.tw/assets/img/temple/1326.webp"
+      ]
+    }
+  },
+  {
     "AttractionName": "劍南山夜景",
     "Type": [
       2,
